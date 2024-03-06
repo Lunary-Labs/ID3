@@ -1,0 +1,6964 @@
+fileFormatVersion: 2
+guid: c50e0168847be2648ba198b70a06dce4
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: BackPad
+  - first:
+      1: 100002
+    second: BackPouch01
+  - first:
+      1: 100004
+    second: BackPouch02
+  - first:
+      1: 100006
+    second: BackPouch03
+  - first:
+      1: 100008
+    second: Body
+  - first:
+      1: 100010
+    second: bright
+  - first:
+      1: 100012
+    second: Cornea
+  - first:
+      1: 100014
+    second: cornea
+  - first:
+      1: 100016
+    second: darker
+  - first:
+      1: 100018
+    second: DOTS_Elena_Body
+  - first:
+      1: 100020
+    second: DOTS_Elena_Head
+  - first:
+      1: 100022
+    second: //RootNode
+  - first:
+      1: 100024
+    second: Elena_Ctrl:ChestEndEffector
+  - first:
+      1: 100026
+    second: Elena_Ctrl:ChestOriginEffector
+  - first:
+      1: 100028
+    second: Elena_Ctrl:Head
+  - first:
+      1: 100030
+    second: Elena_Ctrl:HeadEffector
+  - first:
+      1: 100032
+    second: Elena_Ctrl:Hips
+  - first:
+      1: 100034
+    second: Elena_Ctrl:HipsEffector
+  - first:
+      1: 100036
+    second: Elena_Ctrl:LeftAnkleEffector
+  - first:
+      1: 100038
+    second: Elena_Ctrl:LeftArm
+  - first:
+      1: 100040
+    second: Elena_Ctrl:LeftArmRoll
+  - first:
+      1: 100042
+    second: Elena_Ctrl:LeftElbowEffector
+  - first:
+      1: 100044
+    second: Elena_Ctrl:LeftFoot
+  - first:
+      1: 100046
+    second: Elena_Ctrl:LeftFootEffector
+  - first:
+      1: 100048
+    second: Elena_Ctrl:LeftForeArm
+  - first:
+      1: 100050
+    second: Elena_Ctrl:LeftForeArmRoll
+  - first:
+      1: 100052
+    second: Elena_Ctrl:LeftHand
+  - first:
+      1: 100054
+    second: Elena_Ctrl:LeftHandIndex1
+  - first:
+      1: 100056
+    second: Elena_Ctrl:LeftHandIndex2
+  - first:
+      1: 100058
+    second: Elena_Ctrl:LeftHandIndex3
+  - first:
+      1: 100060
+    second: Elena_Ctrl:LeftHandIndex4
+  - first:
+      1: 100062
+    second: Elena_Ctrl:LeftHandIndexEffector
+  - first:
+      1: 100064
+    second: Elena_Ctrl:LeftHandMiddle1
+  - first:
+      1: 100066
+    second: Elena_Ctrl:LeftHandMiddle2
+  - first:
+      1: 100068
+    second: Elena_Ctrl:LeftHandMiddle3
+  - first:
+      1: 100070
+    second: Elena_Ctrl:LeftHandMiddle4
+  - first:
+      1: 100072
+    second: Elena_Ctrl:LeftHandMiddleEffector
+  - first:
+      1: 100074
+    second: Elena_Ctrl:LeftHandPinky1
+  - first:
+      1: 100076
+    second: Elena_Ctrl:LeftHandPinky2
+  - first:
+      1: 100078
+    second: Elena_Ctrl:LeftHandPinky3
+  - first:
+      1: 100080
+    second: Elena_Ctrl:LeftHandPinky4
+  - first:
+      1: 100082
+    second: Elena_Ctrl:LeftHandPinkyEffector
+  - first:
+      1: 100084
+    second: Elena_Ctrl:LeftHandRing1
+  - first:
+      1: 100086
+    second: Elena_Ctrl:LeftHandRing2
+  - first:
+      1: 100088
+    second: Elena_Ctrl:LeftHandRing3
+  - first:
+      1: 100090
+    second: Elena_Ctrl:LeftHandRing4
+  - first:
+      1: 100092
+    second: Elena_Ctrl:LeftHandRingEffector
+  - first:
+      1: 100094
+    second: Elena_Ctrl:LeftHandThumb1
+  - first:
+      1: 100096
+    second: Elena_Ctrl:LeftHandThumb2
+  - first:
+      1: 100098
+    second: Elena_Ctrl:LeftHandThumb3
+  - first:
+      1: 100100
+    second: Elena_Ctrl:LeftHandThumb4
+  - first:
+      1: 100102
+    second: Elena_Ctrl:LeftHandThumbEffector
+  - first:
+      1: 100104
+    second: Elena_Ctrl:LeftHipEffector
+  - first:
+      1: 100106
+    second: Elena_Ctrl:LeftKneeEffector
+  - first:
+      1: 100108
+    second: Elena_Ctrl:LeftLeg
+  - first:
+      1: 100110
+    second: Elena_Ctrl:LeftShoulder
+  - first:
+      1: 100112
+    second: Elena_Ctrl:LeftShoulderEffector
+  - first:
+      1: 100114
+    second: Elena_Ctrl:LeftToeBase
+  - first:
+      1: 100116
+    second: Elena_Ctrl:LeftUpLeg
+  - first:
+      1: 100118
+    second: Elena_Ctrl:LeftUpLegRoll
+  - first:
+      1: 100120
+    second: Elena_Ctrl:LeftWristEffector
+  - first:
+      1: 100122
+    second: Elena_Ctrl:Neck
+  - first:
+      1: 100124
+    second: Elena_Ctrl:Reference
+  - first:
+      1: 100126
+    second: Elena_Ctrl:RightAnkleEffector
+  - first:
+      1: 100128
+    second: Elena_Ctrl:RightArm
+  - first:
+      1: 100130
+    second: Elena_Ctrl:RightArmRoll
+  - first:
+      1: 100132
+    second: Elena_Ctrl:RightElbowEffector
+  - first:
+      1: 100134
+    second: Elena_Ctrl:RightFoot
+  - first:
+      1: 100136
+    second: Elena_Ctrl:RightFootEffector
+  - first:
+      1: 100138
+    second: Elena_Ctrl:RightForeArm
+  - first:
+      1: 100140
+    second: Elena_Ctrl:RightForeArmRoll
+  - first:
+      1: 100142
+    second: Elena_Ctrl:RightHand
+  - first:
+      1: 100144
+    second: Elena_Ctrl:RightHandIndex1
+  - first:
+      1: 100146
+    second: Elena_Ctrl:RightHandIndex2
+  - first:
+      1: 100148
+    second: Elena_Ctrl:RightHandIndex3
+  - first:
+      1: 100150
+    second: Elena_Ctrl:RightHandIndex4
+  - first:
+      1: 100152
+    second: Elena_Ctrl:RightHandIndexEffector
+  - first:
+      1: 100154
+    second: Elena_Ctrl:RightHandMiddle1
+  - first:
+      1: 100156
+    second: Elena_Ctrl:RightHandMiddle2
+  - first:
+      1: 100158
+    second: Elena_Ctrl:RightHandMiddle3
+  - first:
+      1: 100160
+    second: Elena_Ctrl:RightHandMiddle4
+  - first:
+      1: 100162
+    second: Elena_Ctrl:RightHandMiddleEffector
+  - first:
+      1: 100164
+    second: Elena_Ctrl:RightHandPinky1
+  - first:
+      1: 100166
+    second: Elena_Ctrl:RightHandPinky2
+  - first:
+      1: 100168
+    second: Elena_Ctrl:RightHandPinky3
+  - first:
+      1: 100170
+    second: Elena_Ctrl:RightHandPinky4
+  - first:
+      1: 100172
+    second: Elena_Ctrl:RightHandPinkyEffector
+  - first:
+      1: 100174
+    second: Elena_Ctrl:RightHandRing1
+  - first:
+      1: 100176
+    second: Elena_Ctrl:RightHandRing2
+  - first:
+      1: 100178
+    second: Elena_Ctrl:RightHandRing3
+  - first:
+      1: 100180
+    second: Elena_Ctrl:RightHandRing4
+  - first:
+      1: 100182
+    second: Elena_Ctrl:RightHandRingEffector
+  - first:
+      1: 100184
+    second: Elena_Ctrl:RightHandThumb1
+  - first:
+      1: 100186
+    second: Elena_Ctrl:RightHandThumb2
+  - first:
+      1: 100188
+    second: Elena_Ctrl:RightHandThumb3
+  - first:
+      1: 100190
+    second: Elena_Ctrl:RightHandThumb4
+  - first:
+      1: 100192
+    second: Elena_Ctrl:RightHandThumbEffector
+  - first:
+      1: 100194
+    second: Elena_Ctrl:RightHipEffector
+  - first:
+      1: 100196
+    second: Elena_Ctrl:RightKneeEffector
+  - first:
+      1: 100198
+    second: Elena_Ctrl:RightLeg
+  - first:
+      1: 100200
+    second: Elena_Ctrl:RightShoulder
+  - first:
+      1: 100202
+    second: Elena_Ctrl:RightShoulderEffector
+  - first:
+      1: 100204
+    second: Elena_Ctrl:RightToeBase
+  - first:
+      1: 100206
+    second: Elena_Ctrl:RightUpLeg
+  - first:
+      1: 100208
+    second: Elena_Ctrl:RightUpLegRoll
+  - first:
+      1: 100210
+    second: Elena_Ctrl:RightWristEffector
+  - first:
+      1: 100212
+    second: Elena_Ctrl:Spine
+  - first:
+      1: 100214
+    second: Elena_Ctrl:Spine1
+  - first:
+      1: 100216
+    second: Elena_Ctrl:Spine2
+  - first:
+      1: 100218
+    second: Extra_CTL_GRP
+  - first:
+      1: 100220
+    second: Eye_Up_LOC_GRP
+  - first:
+      1: 100222
+    second: Eyeball
+  - first:
+      1: 100224
+    second: Eyeball_Aim_CTL
+  - first:
+      1: 100226
+    second: Eyeball_Aim_CTL_GRP
+  - first:
+      1: 100228
+    second: Eyeball_Aim_Head_CON
+  - first:
+      1: 100230
+    second: Eyeball_Aim_World_CON
+  - first:
+      1: 100232
+    second: Finger_End_LOC_GRP
+  - first:
+      1: 100234
+    second: hair
+  - first:
+      1: 100236
+    second: hair_base
+  - first:
+      1: 100238
+    second: Head
+  - first:
+      1: 100240
+    second: head
+  - first:
+      1: 100242
+    second: HeadFeature_GRP
+  - first:
+      1: 100244
+    second: Hips
+  - first:
+      1: 100246
+    second: Jaw
+  - first:
+      1: 100248
+    second: jaw_CTL
+  - first:
+      1: 100250
+    second: jaw_CTL_GRP
+  - first:
+      1: 100252
+    second: Knife
+  - first:
+      1: 100254
+    second: L_eye_Up_LOC
+  - first:
+      1: 100256
+    second: L_Eyeball_Aim_CTL
+  - first:
+      1: 100258
+    second: L_Eyeball_Aim_CTL_GRP
+  - first:
+      1: 100260
+    second: L_eyeball_CTL
+  - first:
+      1: 100262
+    second: L_eyeball_CTL_AIM
+  - first:
+      1: 100264
+    second: L_eyeball_CTL_GRP
+  - first:
+      1: 100266
+    second: L_eyeball_CTL_ZERO
+  - first:
+      1: 100268
+    second: L_inner_eyebrow_CTL
+  - first:
+      1: 100270
+    second: L_inner_eyebrow_CTL_GRP
+  - first:
+      1: 100272
+    second: L_lipCorner_CTL
+  - first:
+      1: 100274
+    second: L_lipCorner_CTL_CON
+  - first:
+      1: 100276
+    second: L_lipCorner_CTL_GRP
+  - first:
+      1: 100278
+    second: L_lower_lip_CTL
+  - first:
+      1: 100280
+    second: L_lower_lip_CTL_CON
+  - first:
+      1: 100282
+    second: L_lower_lip_CTL_GRP
+  - first:
+      1: 100284
+    second: L_outer_eyebrow_CTL
+  - first:
+      1: 100286
+    second: L_outer_eyebrow_CTL_GRP
+  - first:
+      1: 100288
+    second: L_Pouch01
+  - first:
+      1: 100290
+    second: L_Pouch02
+  - first:
+      1: 100292
+    second: L_Pouch03
+  - first:
+      1: 100294
+    second: L_Pouch04
+  - first:
+      1: 100296
+    second: L_Pouch05
+  - first:
+      1: 100298
+    second: L_upper_eyelid_CTL
+  - first:
+      1: 100300
+    second: L_upper_eyelid_CTL_GRP
+  - first:
+      1: 100302
+    second: L_upper_lip_CTL
+  - first:
+      1: 100304
+    second: L_upper_lip_CTL_CON
+  - first:
+      1: 100306
+    second: L_upper_lip_CTL_GRP
+  - first:
+      1: 100308
+    second: LeftArm
+  - first:
+      1: 100310
+    second: LeftArmRoll
+  - first:
+      1: 100312
+    second: LeftEyeball
+  - first:
+      1: 100314
+    second: LeftFoot
+  - first:
+      1: 100316
+    second: LeftForeArm
+  - first:
+      1: 100318
+    second: LeftForeArmRoll
+  - first:
+      1: 100320
+    second: LeftHand
+  - first:
+      1: 100322
+    second: LeftHandIndex1
+  - first:
+      1: 100324
+    second: LeftHandIndex2
+  - first:
+      1: 100326
+    second: LeftHandIndex3
+  - first:
+      1: 100328
+    second: LeftHandIndex4_LOC
+  - first:
+      1: 100330
+    second: LeftHandIndex4_LOC_GRP
+  - first:
+      1: 100332
+    second: LeftHandMiddle1
+  - first:
+      1: 100334
+    second: LeftHandMiddle2
+  - first:
+      1: 100336
+    second: LeftHandMiddle3
+  - first:
+      1: 100338
+    second: LeftHandMiddle4_LOC
+  - first:
+      1: 100340
+    second: LeftHandMiddle4_LOC_GRP
+  - first:
+      1: 100342
+    second: LeftHandPinky1
+  - first:
+      1: 100344
+    second: LeftHandPinky2
+  - first:
+      1: 100346
+    second: LeftHandPinky3
+  - first:
+      1: 100348
+    second: LeftHandPinky4_LOC
+  - first:
+      1: 100350
+    second: LeftHandPinky4_LOC_GRP
+  - first:
+      1: 100352
+    second: LeftHandRing1
+  - first:
+      1: 100354
+    second: LeftHandRing2
+  - first:
+      1: 100356
+    second: LeftHandRing3
+  - first:
+      1: 100358
+    second: LeftHandRing4_LOC
+  - first:
+      1: 100360
+    second: LeftHandRing4_LOC_GRP
+  - first:
+      1: 100362
+    second: LeftHandThumb1
+  - first:
+      1: 100364
+    second: LeftHandThumb2
+  - first:
+      1: 100366
+    second: LeftHandThumb3
+  - first:
+      1: 100368
+    second: LeftHandThumb4_LOC
+  - first:
+      1: 100370
+    second: LeftHandThumb4_LOC_GRP
+  - first:
+      1: 100372
+    second: LeftInnerBrow
+  - first:
+      1: 100374
+    second: LeftLeg
+  - first:
+      1: 100376
+    second: LeftLegRoll
+  - first:
+      1: 100378
+    second: LeftLipsCorner
+  - first:
+      1: 100380
+    second: LeftLowerLips
+  - first:
+      1: 100382
+    second: LeftOuterBrow
+  - first:
+      1: 100384
+    second: LeftShoulder
+  - first:
+      1: 100386
+    second: LeftToeBase
+  - first:
+      1: 100388
+    second: LeftUpLeg
+  - first:
+      1: 100390
+    second: LeftUpperEyelid
+  - first:
+      1: 100392
+    second: LeftUpperLips
+  - first:
+      1: 100394
+    second: LowerEyebrow
+  - first:
+      1: 100396
+    second: LowerMask_GRP
+  - first:
+      1: 100398
+    second: Mask
+  - first:
+      1: 100400
+    second: Mask01_CTL
+  - first:
+      1: 100402
+    second: Mask01_CTL_CON
+  - first:
+      1: 100404
+    second: Mask01_CTL_DRV
+  - first:
+      1: 100406
+    second: Mask01_CTL_GRP
+  - first:
+      1: 100408
+    second: Mask02_CTL
+  - first:
+      1: 100410
+    second: Mask02_CTL_CON
+  - first:
+      1: 100412
+    second: Mask02_CTL_DRV
+  - first:
+      1: 100414
+    second: Mask02_CTL_GRP
+  - first:
+      1: 100416
+    second: Mask03_CTL
+  - first:
+      1: 100418
+    second: Mask03_CTL_CON
+  - first:
+      1: 100420
+    second: Mask03_CTL_DRV
+  - first:
+      1: 100422
+    second: Mask03_CTL_GRP
+  - first:
+      1: 100424
+    second: Mask04_CTL
+  - first:
+      1: 100426
+    second: Mask04_CTL_CON
+  - first:
+      1: 100428
+    second: Mask04_CTL_DRV
+  - first:
+      1: 100430
+    second: Mask04_CTL_GRP
+  - first:
+      1: 100432
+    second: Mask05_CTL
+  - first:
+      1: 100434
+    second: Mask05_CTL_CON
+  - first:
+      1: 100436
+    second: Mask05_CTL_DRV
+  - first:
+      1: 100438
+    second: Mask05_CTL_GRP
+  - first:
+      1: 100440
+    second: Mask06_CTL
+  - first:
+      1: 100442
+    second: Mask06_CTL_CON
+  - first:
+      1: 100444
+    second: Mask06_CTL_DRV
+  - first:
+      1: 100446
+    second: Mask06_CTL_GRP
+  - first:
+      1: 100448
+    second: mask1
+  - first:
+      1: 100450
+    second: mask2
+  - first:
+      1: 100452
+    second: mask3
+  - first:
+      1: 100454
+    second: mask4
+  - first:
+      1: 100456
+    second: mask5
+  - first:
+      1: 100458
+    second: mask6
+  - first:
+      1: 100460
+    second: MaskSetting_CTL
+  - first:
+      1: 100462
+    second: MaskSetting_CTL_GRP
+  - first:
+      1: 100464
+    second: Neck
+  - first:
+      1: 100466
+    second: Pistol
+  - first:
+      1: 100468
+    second: polySurface130
+  - first:
+      1: 100470
+    second: polySurface131
+  - first:
+      1: 100472
+    second: polySurface132
+  - first:
+      1: 100474
+    second: polySurface133
+  - first:
+      1: 100476
+    second: polySurface134
+  - first:
+      1: 100478
+    second: polySurface135
+  - first:
+      1: 100480
+    second: polySurface136
+  - first:
+      1: 100482
+    second: polySurface137
+  - first:
+      1: 100484
+    second: polySurface138
+  - first:
+      1: 100486
+    second: polySurface139
+  - first:
+      1: 100488
+    second: polySurface140
+  - first:
+      1: 100490
+    second: polySurface141
+  - first:
+      1: 100492
+    second: polySurface142
+  - first:
+      1: 100494
+    second: polySurface143
+  - first:
+      1: 100496
+    second: polySurface144
+  - first:
+      1: 100498
+    second: polySurface145
+  - first:
+      1: 100500
+    second: polySurface146
+  - first:
+      1: 100502
+    second: polySurface147
+  - first:
+      1: 100504
+    second: polySurface148
+  - first:
+      1: 100506
+    second: polySurface149
+  - first:
+      1: 100508
+    second: polySurface150
+  - first:
+      1: 100510
+    second: polySurface151
+  - first:
+      1: 100512
+    second: polySurface152
+  - first:
+      1: 100514
+    second: polySurface153
+  - first:
+      1: 100516
+    second: polySurface154
+  - first:
+      1: 100518
+    second: polySurface155
+  - first:
+      1: 100520
+    second: polySurface156
+  - first:
+      1: 100522
+    second: polySurface157
+  - first:
+      1: 100524
+    second: polySurface158
+  - first:
+      1: 100526
+    second: polySurface159
+  - first:
+      1: 100528
+    second: polySurface160
+  - first:
+      1: 100530
+    second: polySurface161
+  - first:
+      1: 100532
+    second: polySurface162
+  - first:
+      1: 100534
+    second: polySurface163
+  - first:
+      1: 100536
+    second: polySurface164
+  - first:
+      1: 100538
+    second: polySurface165
+  - first:
+      1: 100540
+    second: polySurface166
+  - first:
+      1: 100542
+    second: polySurface167
+  - first:
+      1: 100544
+    second: polySurface168
+  - first:
+      1: 100546
+    second: polySurface169
+  - first:
+      1: 100548
+    second: polySurface170
+  - first:
+      1: 100550
+    second: polySurface171
+  - first:
+      1: 100552
+    second: polySurface172
+  - first:
+      1: 100554
+    second: polySurface174
+  - first:
+      1: 100556
+    second: polySurface175
+  - first:
+      1: 100558
+    second: polySurface176
+  - first:
+      1: 100560
+    second: polySurface177
+  - first:
+      1: 100562
+    second: polySurface179
+  - first:
+      1: 100564
+    second: polySurface180
+  - first:
+      1: 100566
+    second: polySurface181
+  - first:
+      1: 100568
+    second: polySurface182
+  - first:
+      1: 100570
+    second: polySurface183
+  - first:
+      1: 100572
+    second: polySurface185
+  - first:
+      1: 100574
+    second: polySurface186
+  - first:
+      1: 100576
+    second: polySurface187
+  - first:
+      1: 100578
+    second: polySurface188
+  - first:
+      1: 100580
+    second: polySurface189
+  - first:
+      1: 100582
+    second: polySurface190
+  - first:
+      1: 100584
+    second: polySurface192
+  - first:
+      1: 100586
+    second: polySurface193
+  - first:
+      1: 100588
+    second: polySurface194
+  - first:
+      1: 100590
+    second: polySurface195
+  - first:
+      1: 100592
+    second: polySurface196
+  - first:
+      1: 100594
+    second: polySurface197
+  - first:
+      1: 100596
+    second: polySurface198
+  - first:
+      1: 100598
+    second: polySurface199
+  - first:
+      1: 100600
+    second: polySurface200
+  - first:
+      1: 100602
+    second: polySurface201
+  - first:
+      1: 100604
+    second: polySurface202
+  - first:
+      1: 100606
+    second: polySurface205
+  - first:
+      1: 100608
+    second: polySurface219
+  - first:
+      1: 100610
+    second: polySurface220
+  - first:
+      1: 100612
+    second: polySurface221
+  - first:
+      1: 100614
+    second: polySurface222
+  - first:
+      1: 100616
+    second: polySurface223
+  - first:
+      1: 100618
+    second: polySurface224
+  - first:
+      1: 100620
+    second: polySurface225
+  - first:
+      1: 100622
+    second: polySurface226
+  - first:
+      1: 100624
+    second: polySurface227
+  - first:
+      1: 100626
+    second: polySurface228
+  - first:
+      1: 100628
+    second: polySurface229
+  - first:
+      1: 100630
+    second: polySurface230
+  - first:
+      1: 100632
+    second: polySurface231
+  - first:
+      1: 100634
+    second: polySurface232
+  - first:
+      1: 100636
+    second: polySurface233
+  - first:
+      1: 100638
+    second: polySurface238
+  - first:
+      1: 100640
+    second: polySurface239
+  - first:
+      1: 100642
+    second: polySurface240
+  - first:
+      1: 100644
+    second: polySurface241
+  - first:
+      1: 100646
+    second: polySurface242
+  - first:
+      1: 100648
+    second: polySurface270
+  - first:
+      1: 100650
+    second: polySurface271
+  - first:
+      1: 100652
+    second: polySurface272
+  - first:
+      1: 100654
+    second: polySurface273
+  - first:
+      1: 100656
+    second: polySurface274
+  - first:
+      1: 100658
+    second: polySurface275
+  - first:
+      1: 100660
+    second: polySurface276
+  - first:
+      1: 100662
+    second: polySurface277
+  - first:
+      1: 100664
+    second: polySurface278
+  - first:
+      1: 100666
+    second: polySurface279
+  - first:
+      1: 100668
+    second: polySurface280
+  - first:
+      1: 100670
+    second: polySurface281
+  - first:
+      1: 100672
+    second: polySurface282
+  - first:
+      1: 100674
+    second: polySurface283
+  - first:
+      1: 100676
+    second: polySurface284
+  - first:
+      1: 100678
+    second: polySurface285
+  - first:
+      1: 100680
+    second: polySurface286
+  - first:
+      1: 100682
+    second: polySurface287
+  - first:
+      1: 100684
+    second: polySurface288
+  - first:
+      1: 100686
+    second: polySurface289
+  - first:
+      1: 100688
+    second: polySurface290
+  - first:
+      1: 100690
+    second: polySurface291
+  - first:
+      1: 100692
+    second: polySurface292
+  - first:
+      1: 100694
+    second: polySurface293
+  - first:
+      1: 100696
+    second: polySurface294
+  - first:
+      1: 100698
+    second: polySurface295
+  - first:
+      1: 100700
+    second: polySurface296
+  - first:
+      1: 100702
+    second: polySurface297
+  - first:
+      1: 100704
+    second: polySurface298
+  - first:
+      1: 100706
+    second: polySurface299
+  - first:
+      1: 100708
+    second: polySurface300
+  - first:
+      1: 100710
+    second: polySurface301
+  - first:
+      1: 100712
+    second: polySurface302
+  - first:
+      1: 100714
+    second: polySurface303
+  - first:
+      1: 100716
+    second: polySurface304
+  - first:
+      1: 100718
+    second: polySurface305
+  - first:
+      1: 100720
+    second: polySurface306
+  - first:
+      1: 100722
+    second: polySurface307
+  - first:
+      1: 100724
+    second: polySurface308
+  - first:
+      1: 100726
+    second: polySurface309
+  - first:
+      1: 100728
+    second: polySurface310
+  - first:
+      1: 100730
+    second: polySurface311
+  - first:
+      1: 100732
+    second: polySurface312
+  - first:
+      1: 100734
+    second: polySurface314
+  - first:
+      1: 100736
+    second: polySurface315
+  - first:
+      1: 100738
+    second: polySurface316
+  - first:
+      1: 100740
+    second: polySurface317
+  - first:
+      1: 100742
+    second: polySurface318
+  - first:
+      1: 100744
+    second: polySurface319
+  - first:
+      1: 100746
+    second: polySurface320
+  - first:
+      1: 100748
+    second: polySurface321
+  - first:
+      1: 100750
+    second: polySurface322
+  - first:
+      1: 100752
+    second: polySurface323
+  - first:
+      1: 100754
+    second: polySurface324
+  - first:
+      1: 100756
+    second: polySurface325
+  - first:
+      1: 100758
+    second: polySurface326
+  - first:
+      1: 100760
+    second: polySurface327
+  - first:
+      1: 100762
+    second: polySurface328
+  - first:
+      1: 100764
+    second: polySurface329
+  - first:
+      1: 100766
+    second: polySurface330
+  - first:
+      1: 100768
+    second: polySurface331
+  - first:
+      1: 100770
+    second: polySurface332
+  - first:
+      1: 100772
+    second: polySurface333
+  - first:
+      1: 100774
+    second: polySurface334
+  - first:
+      1: 100776
+    second: polySurface335
+  - first:
+      1: 100778
+    second: polySurface336
+  - first:
+      1: 100780
+    second: polySurface337
+  - first:
+      1: 100782
+    second: polySurface338
+  - first:
+      1: 100784
+    second: polySurface339
+  - first:
+      1: 100786
+    second: polySurface340
+  - first:
+      1: 100788
+    second: Pouch
+  - first:
+      1: 100790
+    second: R_eye_Up_LOC
+  - first:
+      1: 100792
+    second: R_Eyeball_Aim_CTL
+  - first:
+      1: 100794
+    second: R_Eyeball_Aim_CTL_GRP
+  - first:
+      1: 100796
+    second: R_eyeball_CTL
+  - first:
+      1: 100798
+    second: R_eyeball_CTL_AIM
+  - first:
+      1: 100800
+    second: R_eyeball_CTL_GRP
+  - first:
+      1: 100802
+    second: R_eyeball_CTL_ZERO
+  - first:
+      1: 100804
+    second: R_inner_eyebrow_CTL
+  - first:
+      1: 100806
+    second: R_inner_eyebrow_CTL_GRP
+  - first:
+      1: 100808
+    second: R_lipCorner_CTL
+  - first:
+      1: 100810
+    second: R_lipCorner_CTL_CON
+  - first:
+      1: 100812
+    second: R_lipCorner_CTL_GRP
+  - first:
+      1: 100814
+    second: R_lower_lip_CTL
+  - first:
+      1: 100816
+    second: R_lower_lip_CTL_CON
+  - first:
+      1: 100818
+    second: R_lower_lip_CTL_GRP
+  - first:
+      1: 100820
+    second: R_outer_eyebrow_CTL
+  - first:
+      1: 100822
+    second: R_outer_eyebrow_CTL_GRP
+  - first:
+      1: 100824
+    second: R_Pouch01
+  - first:
+      1: 100826
+    second: R_Pouch02
+  - first:
+      1: 100828
+    second: R_Pouch03
+  - first:
+      1: 100830
+    second: R_Pouch04
+  - first:
+      1: 100832
+    second: R_upper_eyelid_CTL
+  - first:
+      1: 100834
+    second: R_upper_eyelid_CTL_GRP
+  - first:
+      1: 100836
+    second: R_upper_lip_CTL
+  - first:
+      1: 100838
+    second: R_upper_lip_CTL_CON
+  - first:
+      1: 100840
+    second: R_upper_lip_CTL_GRP
+  - first:
+      1: 100842
+    second: Reference
+  - first:
+      1: 100844
+    second: RightArm
+  - first:
+      1: 100846
+    second: RightArmRoll
+  - first:
+      1: 100848
+    second: RightEyeball
+  - first:
+      1: 100850
+    second: RightFoot
+  - first:
+      1: 100852
+    second: RightForeArm
+  - first:
+      1: 100854
+    second: RightForeArmRoll
+  - first:
+      1: 100856
+    second: RightHand
+  - first:
+      1: 100858
+    second: RightHandIndex1
+  - first:
+      1: 100860
+    second: RightHandIndex2
+  - first:
+      1: 100862
+    second: RightHandIndex3
+  - first:
+      1: 100864
+    second: RightHandIndex4_LOC
+  - first:
+      1: 100866
+    second: RightHandIndex4_LOC_GRP
+  - first:
+      1: 100868
+    second: RightHandMiddle1
+  - first:
+      1: 100870
+    second: RightHandMiddle2
+  - first:
+      1: 100872
+    second: RightHandMiddle3
+  - first:
+      1: 100874
+    second: RightHandMiddle4_LOC
+  - first:
+      1: 100876
+    second: RightHandMiddle4_LOC_GRP
+  - first:
+      1: 100878
+    second: RightHandPinky1
+  - first:
+      1: 100880
+    second: RightHandPinky2
+  - first:
+      1: 100882
+    second: RightHandPinky3
+  - first:
+      1: 100884
+    second: RightHandPinky4_LOC
+  - first:
+      1: 100886
+    second: RightHandPinky4_LOC_GRP
+  - first:
+      1: 100888
+    second: RightHandRing1
+  - first:
+      1: 100890
+    second: RightHandRing2
+  - first:
+      1: 100892
+    second: RightHandRing3
+  - first:
+      1: 100894
+    second: RightHandRing4_LOC
+  - first:
+      1: 100896
+    second: RightHandRing4_LOC_GRP
+  - first:
+      1: 100898
+    second: RightHandThumb1
+  - first:
+      1: 100900
+    second: RightHandThumb2
+  - first:
+      1: 100902
+    second: RightHandThumb3
+  - first:
+      1: 100904
+    second: RightHandThumb4_LOC
+  - first:
+      1: 100906
+    second: RightHandThumb4_LOC_GRP
+  - first:
+      1: 100908
+    second: RightInnerBrow
+  - first:
+      1: 100910
+    second: RightLeg
+  - first:
+      1: 100912
+    second: RightLegRoll
+  - first:
+      1: 100914
+    second: RightLipsCorner
+  - first:
+      1: 100916
+    second: RightLowerLips
+  - first:
+      1: 100918
+    second: RightOuterBrow
+  - first:
+      1: 100920
+    second: RightShoulder
+  - first:
+      1: 100922
+    second: RightToeBase
+  - first:
+      1: 100924
+    second: RightUpLeg
+  - first:
+      1: 100926
+    second: RightUpperEyelid
+  - first:
+      1: 100928
+    second: RightUpperLips
+  - first:
+      1: 100930
+    second: Scarf
+  - first:
+      1: 100932
+    second: Spine
+  - first:
+      1: 100934
+    second: Spine1
+  - first:
+      1: 100936
+    second: Spine2
+  - first:
+      1: 100938
+    second: stray_hair
+  - first:
+      1: 100940
+    second: teeth
+  - first:
+      1: 100942
+    second: Tongue
+  - first:
+      1: 100944
+    second: UpperEyebrow
+  - first:
+      1: 100946
+    second: UpperMask_GRP
+  - first:
+      1: 100948
+    second: UpperMaskCover_CON
+  - first:
+      1: 100950
+    second: UpperMaskDown_CON
+  - first:
+      1: 100952
+    second: Walkie
+  - first:
+      1: 100954
+    second: WeaponStrap
+  - first:
+      4: 400000
+    second: BackPad
+  - first:
+      4: 400002
+    second: BackPouch01
+  - first:
+      4: 400004
+    second: BackPouch02
+  - first:
+      4: 400006
+    second: BackPouch03
+  - first:
+      4: 400008
+    second: Body
+  - first:
+      4: 400010
+    second: bright
+  - first:
+      4: 400012
+    second: Cornea
+  - first:
+      4: 400014
+    second: cornea
+  - first:
+      4: 400016
+    second: darker
+  - first:
+      4: 400018
+    second: DOTS_Elena_Body
+  - first:
+      4: 400020
+    second: DOTS_Elena_Head
+  - first:
+      4: 400022
+    second: //RootNode
+  - first:
+      4: 400024
+    second: Elena_Ctrl:ChestEndEffector
+  - first:
+      4: 400026
+    second: Elena_Ctrl:ChestOriginEffector
+  - first:
+      4: 400028
+    second: Elena_Ctrl:Head
+  - first:
+      4: 400030
+    second: Elena_Ctrl:HeadEffector
+  - first:
+      4: 400032
+    second: Elena_Ctrl:Hips
+  - first:
+      4: 400034
+    second: Elena_Ctrl:HipsEffector
+  - first:
+      4: 400036
+    second: Elena_Ctrl:LeftAnkleEffector
+  - first:
+      4: 400038
+    second: Elena_Ctrl:LeftArm
+  - first:
+      4: 400040
+    second: Elena_Ctrl:LeftArmRoll
+  - first:
+      4: 400042
+    second: Elena_Ctrl:LeftElbowEffector
+  - first:
+      4: 400044
+    second: Elena_Ctrl:LeftFoot
+  - first:
+      4: 400046
+    second: Elena_Ctrl:LeftFootEffector
+  - first:
+      4: 400048
+    second: Elena_Ctrl:LeftForeArm
+  - first:
+      4: 400050
+    second: Elena_Ctrl:LeftForeArmRoll
+  - first:
+      4: 400052
+    second: Elena_Ctrl:LeftHand
+  - first:
+      4: 400054
+    second: Elena_Ctrl:LeftHandIndex1
+  - first:
+      4: 400056
+    second: Elena_Ctrl:LeftHandIndex2
+  - first:
+      4: 400058
+    second: Elena_Ctrl:LeftHandIndex3
+  - first:
+      4: 400060
+    second: Elena_Ctrl:LeftHandIndex4
+  - first:
+      4: 400062
+    second: Elena_Ctrl:LeftHandIndexEffector
+  - first:
+      4: 400064
+    second: Elena_Ctrl:LeftHandMiddle1
+  - first:
+      4: 400066
+    second: Elena_Ctrl:LeftHandMiddle2
+  - first:
+      4: 400068
+    second: Elena_Ctrl:LeftHandMiddle3
+  - first:
+      4: 400070
+    second: Elena_Ctrl:LeftHandMiddle4
+  - first:
+      4: 400072
+    second: Elena_Ctrl:LeftHandMiddleEffector
+  - first:
+      4: 400074
+    second: Elena_Ctrl:LeftHandPinky1
+  - first:
+      4: 400076
+    second: Elena_Ctrl:LeftHandPinky2
+  - first:
+      4: 400078
+    second: Elena_Ctrl:LeftHandPinky3
+  - first:
+      4: 400080
+    second: Elena_Ctrl:LeftHandPinky4
+  - first:
+      4: 400082
+    second: Elena_Ctrl:LeftHandPinkyEffector
+  - first:
+      4: 400084
+    second: Elena_Ctrl:LeftHandRing1
+  - first:
+      4: 400086
+    second: Elena_Ctrl:LeftHandRing2
+  - first:
+      4: 400088
+    second: Elena_Ctrl:LeftHandRing3
+  - first:
+      4: 400090
+    second: Elena_Ctrl:LeftHandRing4
+  - first:
+      4: 400092
+    second: Elena_Ctrl:LeftHandRingEffector
+  - first:
+      4: 400094
+    second: Elena_Ctrl:LeftHandThumb1
+  - first:
+      4: 400096
+    second: Elena_Ctrl:LeftHandThumb2
+  - first:
+      4: 400098
+    second: Elena_Ctrl:LeftHandThumb3
+  - first:
+      4: 400100
+    second: Elena_Ctrl:LeftHandThumb4
+  - first:
+      4: 400102
+    second: Elena_Ctrl:LeftHandThumbEffector
+  - first:
+      4: 400104
+    second: Elena_Ctrl:LeftHipEffector
+  - first:
+      4: 400106
+    second: Elena_Ctrl:LeftKneeEffector
+  - first:
+      4: 400108
+    second: Elena_Ctrl:LeftLeg
+  - first:
+      4: 400110
+    second: Elena_Ctrl:LeftShoulder
+  - first:
+      4: 400112
+    second: Elena_Ctrl:LeftShoulderEffector
+  - first:
+      4: 400114
+    second: Elena_Ctrl:LeftToeBase
+  - first:
+      4: 400116
+    second: Elena_Ctrl:LeftUpLeg
+  - first:
+      4: 400118
+    second: Elena_Ctrl:LeftUpLegRoll
+  - first:
+      4: 400120
+    second: Elena_Ctrl:LeftWristEffector
+  - first:
+      4: 400122
+    second: Elena_Ctrl:Neck
+  - first:
+      4: 400124
+    second: Elena_Ctrl:Reference
+  - first:
+      4: 400126
+    second: Elena_Ctrl:RightAnkleEffector
+  - first:
+      4: 400128
+    second: Elena_Ctrl:RightArm
+  - first:
+      4: 400130
+    second: Elena_Ctrl:RightArmRoll
+  - first:
+      4: 400132
+    second: Elena_Ctrl:RightElbowEffector
+  - first:
+      4: 400134
+    second: Elena_Ctrl:RightFoot
+  - first:
+      4: 400136
+    second: Elena_Ctrl:RightFootEffector
+  - first:
+      4: 400138
+    second: Elena_Ctrl:RightForeArm
+  - first:
+      4: 400140
+    second: Elena_Ctrl:RightForeArmRoll
+  - first:
+      4: 400142
+    second: Elena_Ctrl:RightHand
+  - first:
+      4: 400144
+    second: Elena_Ctrl:RightHandIndex1
+  - first:
+      4: 400146
+    second: Elena_Ctrl:RightHandIndex2
+  - first:
+      4: 400148
+    second: Elena_Ctrl:RightHandIndex3
+  - first:
+      4: 400150
+    second: Elena_Ctrl:RightHandIndex4
+  - first:
+      4: 400152
+    second: Elena_Ctrl:RightHandIndexEffector
+  - first:
+      4: 400154
+    second: Elena_Ctrl:RightHandMiddle1
+  - first:
+      4: 400156
+    second: Elena_Ctrl:RightHandMiddle2
+  - first:
+      4: 400158
+    second: Elena_Ctrl:RightHandMiddle3
+  - first:
+      4: 400160
+    second: Elena_Ctrl:RightHandMiddle4
+  - first:
+      4: 400162
+    second: Elena_Ctrl:RightHandMiddleEffector
+  - first:
+      4: 400164
+    second: Elena_Ctrl:RightHandPinky1
+  - first:
+      4: 400166
+    second: Elena_Ctrl:RightHandPinky2
+  - first:
+      4: 400168
+    second: Elena_Ctrl:RightHandPinky3
+  - first:
+      4: 400170
+    second: Elena_Ctrl:RightHandPinky4
+  - first:
+      4: 400172
+    second: Elena_Ctrl:RightHandPinkyEffector
+  - first:
+      4: 400174
+    second: Elena_Ctrl:RightHandRing1
+  - first:
+      4: 400176
+    second: Elena_Ctrl:RightHandRing2
+  - first:
+      4: 400178
+    second: Elena_Ctrl:RightHandRing3
+  - first:
+      4: 400180
+    second: Elena_Ctrl:RightHandRing4
+  - first:
+      4: 400182
+    second: Elena_Ctrl:RightHandRingEffector
+  - first:
+      4: 400184
+    second: Elena_Ctrl:RightHandThumb1
+  - first:
+      4: 400186
+    second: Elena_Ctrl:RightHandThumb2
+  - first:
+      4: 400188
+    second: Elena_Ctrl:RightHandThumb3
+  - first:
+      4: 400190
+    second: Elena_Ctrl:RightHandThumb4
+  - first:
+      4: 400192
+    second: Elena_Ctrl:RightHandThumbEffector
+  - first:
+      4: 400194
+    second: Elena_Ctrl:RightHipEffector
+  - first:
+      4: 400196
+    second: Elena_Ctrl:RightKneeEffector
+  - first:
+      4: 400198
+    second: Elena_Ctrl:RightLeg
+  - first:
+      4: 400200
+    second: Elena_Ctrl:RightShoulder
+  - first:
+      4: 400202
+    second: Elena_Ctrl:RightShoulderEffector
+  - first:
+      4: 400204
+    second: Elena_Ctrl:RightToeBase
+  - first:
+      4: 400206
+    second: Elena_Ctrl:RightUpLeg
+  - first:
+      4: 400208
+    second: Elena_Ctrl:RightUpLegRoll
+  - first:
+      4: 400210
+    second: Elena_Ctrl:RightWristEffector
+  - first:
+      4: 400212
+    second: Elena_Ctrl:Spine
+  - first:
+      4: 400214
+    second: Elena_Ctrl:Spine1
+  - first:
+      4: 400216
+    second: Elena_Ctrl:Spine2
+  - first:
+      4: 400218
+    second: Extra_CTL_GRP
+  - first:
+      4: 400220
+    second: Eye_Up_LOC_GRP
+  - first:
+      4: 400222
+    second: Eyeball
+  - first:
+      4: 400224
+    second: Eyeball_Aim_CTL
+  - first:
+      4: 400226
+    second: Eyeball_Aim_CTL_GRP
+  - first:
+      4: 400228
+    second: Eyeball_Aim_Head_CON
+  - first:
+      4: 400230
+    second: Eyeball_Aim_World_CON
+  - first:
+      4: 400232
+    second: Finger_End_LOC_GRP
+  - first:
+      4: 400234
+    second: hair
+  - first:
+      4: 400236
+    second: hair_base
+  - first:
+      4: 400238
+    second: Head
+  - first:
+      4: 400240
+    second: head
+  - first:
+      4: 400242
+    second: HeadFeature_GRP
+  - first:
+      4: 400244
+    second: Hips
+  - first:
+      4: 400246
+    second: Jaw
+  - first:
+      4: 400248
+    second: jaw_CTL
+  - first:
+      4: 400250
+    second: jaw_CTL_GRP
+  - first:
+      4: 400252
+    second: Knife
+  - first:
+      4: 400254
+    second: L_eye_Up_LOC
+  - first:
+      4: 400256
+    second: L_Eyeball_Aim_CTL
+  - first:
+      4: 400258
+    second: L_Eyeball_Aim_CTL_GRP
+  - first:
+      4: 400260
+    second: L_eyeball_CTL
+  - first:
+      4: 400262
+    second: L_eyeball_CTL_AIM
+  - first:
+      4: 400264
+    second: L_eyeball_CTL_GRP
+  - first:
+      4: 400266
+    second: L_eyeball_CTL_ZERO
+  - first:
+      4: 400268
+    second: L_inner_eyebrow_CTL
+  - first:
+      4: 400270
+    second: L_inner_eyebrow_CTL_GRP
+  - first:
+      4: 400272
+    second: L_lipCorner_CTL
+  - first:
+      4: 400274
+    second: L_lipCorner_CTL_CON
+  - first:
+      4: 400276
+    second: L_lipCorner_CTL_GRP
+  - first:
+      4: 400278
+    second: L_lower_lip_CTL
+  - first:
+      4: 400280
+    second: L_lower_lip_CTL_CON
+  - first:
+      4: 400282
+    second: L_lower_lip_CTL_GRP
+  - first:
+      4: 400284
+    second: L_outer_eyebrow_CTL
+  - first:
+      4: 400286
+    second: L_outer_eyebrow_CTL_GRP
+  - first:
+      4: 400288
+    second: L_Pouch01
+  - first:
+      4: 400290
+    second: L_Pouch02
+  - first:
+      4: 400292
+    second: L_Pouch03
+  - first:
+      4: 400294
+    second: L_Pouch04
+  - first:
+      4: 400296
+    second: L_Pouch05
+  - first:
+      4: 400298
+    second: L_upper_eyelid_CTL
+  - first:
+      4: 400300
+    second: L_upper_eyelid_CTL_GRP
+  - first:
+      4: 400302
+    second: L_upper_lip_CTL
+  - first:
+      4: 400304
+    second: L_upper_lip_CTL_CON
+  - first:
+      4: 400306
+    second: L_upper_lip_CTL_GRP
+  - first:
+      4: 400308
+    second: LeftArm
+  - first:
+      4: 400310
+    second: LeftArmRoll
+  - first:
+      4: 400312
+    second: LeftEyeball
+  - first:
+      4: 400314
+    second: LeftFoot
+  - first:
+      4: 400316
+    second: LeftForeArm
+  - first:
+      4: 400318
+    second: LeftForeArmRoll
+  - first:
+      4: 400320
+    second: LeftHand
+  - first:
+      4: 400322
+    second: LeftHandIndex1
+  - first:
+      4: 400324
+    second: LeftHandIndex2
+  - first:
+      4: 400326
+    second: LeftHandIndex3
+  - first:
+      4: 400328
+    second: LeftHandIndex4_LOC
+  - first:
+      4: 400330
+    second: LeftHandIndex4_LOC_GRP
+  - first:
+      4: 400332
+    second: LeftHandMiddle1
+  - first:
+      4: 400334
+    second: LeftHandMiddle2
+  - first:
+      4: 400336
+    second: LeftHandMiddle3
+  - first:
+      4: 400338
+    second: LeftHandMiddle4_LOC
+  - first:
+      4: 400340
+    second: LeftHandMiddle4_LOC_GRP
+  - first:
+      4: 400342
+    second: LeftHandPinky1
+  - first:
+      4: 400344
+    second: LeftHandPinky2
+  - first:
+      4: 400346
+    second: LeftHandPinky3
+  - first:
+      4: 400348
+    second: LeftHandPinky4_LOC
+  - first:
+      4: 400350
+    second: LeftHandPinky4_LOC_GRP
+  - first:
+      4: 400352
+    second: LeftHandRing1
+  - first:
+      4: 400354
+    second: LeftHandRing2
+  - first:
+      4: 400356
+    second: LeftHandRing3
+  - first:
+      4: 400358
+    second: LeftHandRing4_LOC
+  - first:
+      4: 400360
+    second: LeftHandRing4_LOC_GRP
+  - first:
+      4: 400362
+    second: LeftHandThumb1
+  - first:
+      4: 400364
+    second: LeftHandThumb2
+  - first:
+      4: 400366
+    second: LeftHandThumb3
+  - first:
+      4: 400368
+    second: LeftHandThumb4_LOC
+  - first:
+      4: 400370
+    second: LeftHandThumb4_LOC_GRP
+  - first:
+      4: 400372
+    second: LeftInnerBrow
+  - first:
+      4: 400374
+    second: LeftLeg
+  - first:
+      4: 400376
+    second: LeftLegRoll
+  - first:
+      4: 400378
+    second: LeftLipsCorner
+  - first:
+      4: 400380
+    second: LeftLowerLips
+  - first:
+      4: 400382
+    second: LeftOuterBrow
+  - first:
+      4: 400384
+    second: LeftShoulder
+  - first:
+      4: 400386
+    second: LeftToeBase
+  - first:
+      4: 400388
+    second: LeftUpLeg
+  - first:
+      4: 400390
+    second: LeftUpperEyelid
+  - first:
+      4: 400392
+    second: LeftUpperLips
+  - first:
+      4: 400394
+    second: LowerEyebrow
+  - first:
+      4: 400396
+    second: LowerMask_GRP
+  - first:
+      4: 400398
+    second: Mask
+  - first:
+      4: 400400
+    second: Mask01_CTL
+  - first:
+      4: 400402
+    second: Mask01_CTL_CON
+  - first:
+      4: 400404
+    second: Mask01_CTL_DRV
+  - first:
+      4: 400406
+    second: Mask01_CTL_GRP
+  - first:
+      4: 400408
+    second: Mask02_CTL
+  - first:
+      4: 400410
+    second: Mask02_CTL_CON
+  - first:
+      4: 400412
+    second: Mask02_CTL_DRV
+  - first:
+      4: 400414
+    second: Mask02_CTL_GRP
+  - first:
+      4: 400416
+    second: Mask03_CTL
+  - first:
+      4: 400418
+    second: Mask03_CTL_CON
+  - first:
+      4: 400420
+    second: Mask03_CTL_DRV
+  - first:
+      4: 400422
+    second: Mask03_CTL_GRP
+  - first:
+      4: 400424
+    second: Mask04_CTL
+  - first:
+      4: 400426
+    second: Mask04_CTL_CON
+  - first:
+      4: 400428
+    second: Mask04_CTL_DRV
+  - first:
+      4: 400430
+    second: Mask04_CTL_GRP
+  - first:
+      4: 400432
+    second: Mask05_CTL
+  - first:
+      4: 400434
+    second: Mask05_CTL_CON
+  - first:
+      4: 400436
+    second: Mask05_CTL_DRV
+  - first:
+      4: 400438
+    second: Mask05_CTL_GRP
+  - first:
+      4: 400440
+    second: Mask06_CTL
+  - first:
+      4: 400442
+    second: Mask06_CTL_CON
+  - first:
+      4: 400444
+    second: Mask06_CTL_DRV
+  - first:
+      4: 400446
+    second: Mask06_CTL_GRP
+  - first:
+      4: 400448
+    second: mask1
+  - first:
+      4: 400450
+    second: mask2
+  - first:
+      4: 400452
+    second: mask3
+  - first:
+      4: 400454
+    second: mask4
+  - first:
+      4: 400456
+    second: mask5
+  - first:
+      4: 400458
+    second: mask6
+  - first:
+      4: 400460
+    second: MaskSetting_CTL
+  - first:
+      4: 400462
+    second: MaskSetting_CTL_GRP
+  - first:
+      4: 400464
+    second: Neck
+  - first:
+      4: 400466
+    second: Pistol
+  - first:
+      4: 400468
+    second: polySurface130
+  - first:
+      4: 400470
+    second: polySurface131
+  - first:
+      4: 400472
+    second: polySurface132
+  - first:
+      4: 400474
+    second: polySurface133
+  - first:
+      4: 400476
+    second: polySurface134
+  - first:
+      4: 400478
+    second: polySurface135
+  - first:
+      4: 400480
+    second: polySurface136
+  - first:
+      4: 400482
+    second: polySurface137
+  - first:
+      4: 400484
+    second: polySurface138
+  - first:
+      4: 400486
+    second: polySurface139
+  - first:
+      4: 400488
+    second: polySurface140
+  - first:
+      4: 400490
+    second: polySurface141
+  - first:
+      4: 400492
+    second: polySurface142
+  - first:
+      4: 400494
+    second: polySurface143
+  - first:
+      4: 400496
+    second: polySurface144
+  - first:
+      4: 400498
+    second: polySurface145
+  - first:
+      4: 400500
+    second: polySurface146
+  - first:
+      4: 400502
+    second: polySurface147
+  - first:
+      4: 400504
+    second: polySurface148
+  - first:
+      4: 400506
+    second: polySurface149
+  - first:
+      4: 400508
+    second: polySurface150
+  - first:
+      4: 400510
+    second: polySurface151
+  - first:
+      4: 400512
+    second: polySurface152
+  - first:
+      4: 400514
+    second: polySurface153
+  - first:
+      4: 400516
+    second: polySurface154
+  - first:
+      4: 400518
+    second: polySurface155
+  - first:
+      4: 400520
+    second: polySurface156
+  - first:
+      4: 400522
+    second: polySurface157
+  - first:
+      4: 400524
+    second: polySurface158
+  - first:
+      4: 400526
+    second: polySurface159
+  - first:
+      4: 400528
+    second: polySurface160
+  - first:
+      4: 400530
+    second: polySurface161
+  - first:
+      4: 400532
+    second: polySurface162
+  - first:
+      4: 400534
+    second: polySurface163
+  - first:
+      4: 400536
+    second: polySurface164
+  - first:
+      4: 400538
+    second: polySurface165
+  - first:
+      4: 400540
+    second: polySurface166
+  - first:
+      4: 400542
+    second: polySurface167
+  - first:
+      4: 400544
+    second: polySurface168
+  - first:
+      4: 400546
+    second: polySurface169
+  - first:
+      4: 400548
+    second: polySurface170
+  - first:
+      4: 400550
+    second: polySurface171
+  - first:
+      4: 400552
+    second: polySurface172
+  - first:
+      4: 400554
+    second: polySurface174
+  - first:
+      4: 400556
+    second: polySurface175
+  - first:
+      4: 400558
+    second: polySurface176
+  - first:
+      4: 400560
+    second: polySurface177
+  - first:
+      4: 400562
+    second: polySurface179
+  - first:
+      4: 400564
+    second: polySurface180
+  - first:
+      4: 400566
+    second: polySurface181
+  - first:
+      4: 400568
+    second: polySurface182
+  - first:
+      4: 400570
+    second: polySurface183
+  - first:
+      4: 400572
+    second: polySurface185
+  - first:
+      4: 400574
+    second: polySurface186
+  - first:
+      4: 400576
+    second: polySurface187
+  - first:
+      4: 400578
+    second: polySurface188
+  - first:
+      4: 400580
+    second: polySurface189
+  - first:
+      4: 400582
+    second: polySurface190
+  - first:
+      4: 400584
+    second: polySurface192
+  - first:
+      4: 400586
+    second: polySurface193
+  - first:
+      4: 400588
+    second: polySurface194
+  - first:
+      4: 400590
+    second: polySurface195
+  - first:
+      4: 400592
+    second: polySurface196
+  - first:
+      4: 400594
+    second: polySurface197
+  - first:
+      4: 400596
+    second: polySurface198
+  - first:
+      4: 400598
+    second: polySurface199
+  - first:
+      4: 400600
+    second: polySurface200
+  - first:
+      4: 400602
+    second: polySurface201
+  - first:
+      4: 400604
+    second: polySurface202
+  - first:
+      4: 400606
+    second: polySurface205
+  - first:
+      4: 400608
+    second: polySurface219
+  - first:
+      4: 400610
+    second: polySurface220
+  - first:
+      4: 400612
+    second: polySurface221
+  - first:
+      4: 400614
+    second: polySurface222
+  - first:
+      4: 400616
+    second: polySurface223
+  - first:
+      4: 400618
+    second: polySurface224
+  - first:
+      4: 400620
+    second: polySurface225
+  - first:
+      4: 400622
+    second: polySurface226
+  - first:
+      4: 400624
+    second: polySurface227
+  - first:
+      4: 400626
+    second: polySurface228
+  - first:
+      4: 400628
+    second: polySurface229
+  - first:
+      4: 400630
+    second: polySurface230
+  - first:
+      4: 400632
+    second: polySurface231
+  - first:
+      4: 400634
+    second: polySurface232
+  - first:
+      4: 400636
+    second: polySurface233
+  - first:
+      4: 400638
+    second: polySurface238
+  - first:
+      4: 400640
+    second: polySurface239
+  - first:
+      4: 400642
+    second: polySurface240
+  - first:
+      4: 400644
+    second: polySurface241
+  - first:
+      4: 400646
+    second: polySurface242
+  - first:
+      4: 400648
+    second: polySurface270
+  - first:
+      4: 400650
+    second: polySurface271
+  - first:
+      4: 400652
+    second: polySurface272
+  - first:
+      4: 400654
+    second: polySurface273
+  - first:
+      4: 400656
+    second: polySurface274
+  - first:
+      4: 400658
+    second: polySurface275
+  - first:
+      4: 400660
+    second: polySurface276
+  - first:
+      4: 400662
+    second: polySurface277
+  - first:
+      4: 400664
+    second: polySurface278
+  - first:
+      4: 400666
+    second: polySurface279
+  - first:
+      4: 400668
+    second: polySurface280
+  - first:
+      4: 400670
+    second: polySurface281
+  - first:
+      4: 400672
+    second: polySurface282
+  - first:
+      4: 400674
+    second: polySurface283
+  - first:
+      4: 400676
+    second: polySurface284
+  - first:
+      4: 400678
+    second: polySurface285
+  - first:
+      4: 400680
+    second: polySurface286
+  - first:
+      4: 400682
+    second: polySurface287
+  - first:
+      4: 400684
+    second: polySurface288
+  - first:
+      4: 400686
+    second: polySurface289
+  - first:
+      4: 400688
+    second: polySurface290
+  - first:
+      4: 400690
+    second: polySurface291
+  - first:
+      4: 400692
+    second: polySurface292
+  - first:
+      4: 400694
+    second: polySurface293
+  - first:
+      4: 400696
+    second: polySurface294
+  - first:
+      4: 400698
+    second: polySurface295
+  - first:
+      4: 400700
+    second: polySurface296
+  - first:
+      4: 400702
+    second: polySurface297
+  - first:
+      4: 400704
+    second: polySurface298
+  - first:
+      4: 400706
+    second: polySurface299
+  - first:
+      4: 400708
+    second: polySurface300
+  - first:
+      4: 400710
+    second: polySurface301
+  - first:
+      4: 400712
+    second: polySurface302
+  - first:
+      4: 400714
+    second: polySurface303
+  - first:
+      4: 400716
+    second: polySurface304
+  - first:
+      4: 400718
+    second: polySurface305
+  - first:
+      4: 400720
+    second: polySurface306
+  - first:
+      4: 400722
+    second: polySurface307
+  - first:
+      4: 400724
+    second: polySurface308
+  - first:
+      4: 400726
+    second: polySurface309
+  - first:
+      4: 400728
+    second: polySurface310
+  - first:
+      4: 400730
+    second: polySurface311
+  - first:
+      4: 400732
+    second: polySurface312
+  - first:
+      4: 400734
+    second: polySurface314
+  - first:
+      4: 400736
+    second: polySurface315
+  - first:
+      4: 400738
+    second: polySurface316
+  - first:
+      4: 400740
+    second: polySurface317
+  - first:
+      4: 400742
+    second: polySurface318
+  - first:
+      4: 400744
+    second: polySurface319
+  - first:
+      4: 400746
+    second: polySurface320
+  - first:
+      4: 400748
+    second: polySurface321
+  - first:
+      4: 400750
+    second: polySurface322
+  - first:
+      4: 400752
+    second: polySurface323
+  - first:
+      4: 400754
+    second: polySurface324
+  - first:
+      4: 400756
+    second: polySurface325
+  - first:
+      4: 400758
+    second: polySurface326
+  - first:
+      4: 400760
+    second: polySurface327
+  - first:
+      4: 400762
+    second: polySurface328
+  - first:
+      4: 400764
+    second: polySurface329
+  - first:
+      4: 400766
+    second: polySurface330
+  - first:
+      4: 400768
+    second: polySurface331
+  - first:
+      4: 400770
+    second: polySurface332
+  - first:
+      4: 400772
+    second: polySurface333
+  - first:
+      4: 400774
+    second: polySurface334
+  - first:
+      4: 400776
+    second: polySurface335
+  - first:
+      4: 400778
+    second: polySurface336
+  - first:
+      4: 400780
+    second: polySurface337
+  - first:
+      4: 400782
+    second: polySurface338
+  - first:
+      4: 400784
+    second: polySurface339
+  - first:
+      4: 400786
+    second: polySurface340
+  - first:
+      4: 400788
+    second: Pouch
+  - first:
+      4: 400790
+    second: R_eye_Up_LOC
+  - first:
+      4: 400792
+    second: R_Eyeball_Aim_CTL
+  - first:
+      4: 400794
+    second: R_Eyeball_Aim_CTL_GRP
+  - first:
+      4: 400796
+    second: R_eyeball_CTL
+  - first:
+      4: 400798
+    second: R_eyeball_CTL_AIM
+  - first:
+      4: 400800
+    second: R_eyeball_CTL_GRP
+  - first:
+      4: 400802
+    second: R_eyeball_CTL_ZERO
+  - first:
+      4: 400804
+    second: R_inner_eyebrow_CTL
+  - first:
+      4: 400806
+    second: R_inner_eyebrow_CTL_GRP
+  - first:
+      4: 400808
+    second: R_lipCorner_CTL
+  - first:
+      4: 400810
+    second: R_lipCorner_CTL_CON
+  - first:
+      4: 400812
+    second: R_lipCorner_CTL_GRP
+  - first:
+      4: 400814
+    second: R_lower_lip_CTL
+  - first:
+      4: 400816
+    second: R_lower_lip_CTL_CON
+  - first:
+      4: 400818
+    second: R_lower_lip_CTL_GRP
+  - first:
+      4: 400820
+    second: R_outer_eyebrow_CTL
+  - first:
+      4: 400822
+    second: R_outer_eyebrow_CTL_GRP
+  - first:
+      4: 400824
+    second: R_Pouch01
+  - first:
+      4: 400826
+    second: R_Pouch02
+  - first:
+      4: 400828
+    second: R_Pouch03
+  - first:
+      4: 400830
+    second: R_Pouch04
+  - first:
+      4: 400832
+    second: R_upper_eyelid_CTL
+  - first:
+      4: 400834
+    second: R_upper_eyelid_CTL_GRP
+  - first:
+      4: 400836
+    second: R_upper_lip_CTL
+  - first:
+      4: 400838
+    second: R_upper_lip_CTL_CON
+  - first:
+      4: 400840
+    second: R_upper_lip_CTL_GRP
+  - first:
+      4: 400842
+    second: Reference
+  - first:
+      4: 400844
+    second: RightArm
+  - first:
+      4: 400846
+    second: RightArmRoll
+  - first:
+      4: 400848
+    second: RightEyeball
+  - first:
+      4: 400850
+    second: RightFoot
+  - first:
+      4: 400852
+    second: RightForeArm
+  - first:
+      4: 400854
+    second: RightForeArmRoll
+  - first:
+      4: 400856
+    second: RightHand
+  - first:
+      4: 400858
+    second: RightHandIndex1
+  - first:
+      4: 400860
+    second: RightHandIndex2
+  - first:
+      4: 400862
+    second: RightHandIndex3
+  - first:
+      4: 400864
+    second: RightHandIndex4_LOC
+  - first:
+      4: 400866
+    second: RightHandIndex4_LOC_GRP
+  - first:
+      4: 400868
+    second: RightHandMiddle1
+  - first:
+      4: 400870
+    second: RightHandMiddle2
+  - first:
+      4: 400872
+    second: RightHandMiddle3
+  - first:
+      4: 400874
+    second: RightHandMiddle4_LOC
+  - first:
+      4: 400876
+    second: RightHandMiddle4_LOC_GRP
+  - first:
+      4: 400878
+    second: RightHandPinky1
+  - first:
+      4: 400880
+    second: RightHandPinky2
+  - first:
+      4: 400882
+    second: RightHandPinky3
+  - first:
+      4: 400884
+    second: RightHandPinky4_LOC
+  - first:
+      4: 400886
+    second: RightHandPinky4_LOC_GRP
+  - first:
+      4: 400888
+    second: RightHandRing1
+  - first:
+      4: 400890
+    second: RightHandRing2
+  - first:
+      4: 400892
+    second: RightHandRing3
+  - first:
+      4: 400894
+    second: RightHandRing4_LOC
+  - first:
+      4: 400896
+    second: RightHandRing4_LOC_GRP
+  - first:
+      4: 400898
+    second: RightHandThumb1
+  - first:
+      4: 400900
+    second: RightHandThumb2
+  - first:
+      4: 400902
+    second: RightHandThumb3
+  - first:
+      4: 400904
+    second: RightHandThumb4_LOC
+  - first:
+      4: 400906
+    second: RightHandThumb4_LOC_GRP
+  - first:
+      4: 400908
+    second: RightInnerBrow
+  - first:
+      4: 400910
+    second: RightLeg
+  - first:
+      4: 400912
+    second: RightLegRoll
+  - first:
+      4: 400914
+    second: RightLipsCorner
+  - first:
+      4: 400916
+    second: RightLowerLips
+  - first:
+      4: 400918
+    second: RightOuterBrow
+  - first:
+      4: 400920
+    second: RightShoulder
+  - first:
+      4: 400922
+    second: RightToeBase
+  - first:
+      4: 400924
+    second: RightUpLeg
+  - first:
+      4: 400926
+    second: RightUpperEyelid
+  - first:
+      4: 400928
+    second: RightUpperLips
+  - first:
+      4: 400930
+    second: Scarf
+  - first:
+      4: 400932
+    second: Spine
+  - first:
+      4: 400934
+    second: Spine1
+  - first:
+      4: 400936
+    second: Spine2
+  - first:
+      4: 400938
+    second: stray_hair
+  - first:
+      4: 400940
+    second: teeth
+  - first:
+      4: 400942
+    second: Tongue
+  - first:
+      4: 400944
+    second: UpperEyebrow
+  - first:
+      4: 400946
+    second: UpperMask_GRP
+  - first:
+      4: 400948
+    second: UpperMaskCover_CON
+  - first:
+      4: 400950
+    second: UpperMaskDown_CON
+  - first:
+      4: 400952
+    second: Walkie
+  - first:
+      4: 400954
+    second: WeaponStrap
+  - first:
+      43: 4300000
+    second: head
+  - first:
+      43: 4300002
+    second: Tongue
+  - first:
+      43: 4300004
+    second: Eyeball
+  - first:
+      43: 4300006
+    second: UpperEyebrow
+  - first:
+      43: 4300008
+    second: LowerEyebrow
+  - first:
+      43: 4300010
+    second: Cornea
+  - first:
+      43: 4300012
+    second: polySurface147
+  - first:
+      43: 4300014
+    second: polySurface148
+  - first:
+      43: 4300016
+    second: polySurface149
+  - first:
+      43: 4300018
+    second: polySurface150
+  - first:
+      43: 4300020
+    second: polySurface151
+  - first:
+      43: 4300022
+    second: polySurface155
+  - first:
+      43: 4300024
+    second: polySurface156
+  - first:
+      43: 4300026
+    second: polySurface157
+  - first:
+      43: 4300028
+    second: polySurface160
+  - first:
+      43: 4300030
+    second: polySurface161
+  - first:
+      43: 4300032
+    second: polySurface162
+  - first:
+      43: 4300034
+    second: polySurface166
+  - first:
+      43: 4300036
+    second: polySurface182
+  - first:
+      43: 4300038
+    second: polySurface185
+  - first:
+      43: 4300040
+    second: polySurface186
+  - first:
+      43: 4300042
+    second: polySurface188
+  - first:
+      43: 4300044
+    second: polySurface189
+  - first:
+      43: 4300046
+    second: polySurface192
+  - first:
+      43: 4300048
+    second: polySurface193
+  - first:
+      43: 4300050
+    second: polySurface198
+  - first:
+      43: 4300052
+    second: polySurface174
+  - first:
+      43: 4300054
+    second: polySurface175
+  - first:
+      43: 4300056
+    second: polySurface176
+  - first:
+      43: 4300058
+    second: polySurface190
+  - first:
+      43: 4300060
+    second: polySurface202
+  - first:
+      43: 4300062
+    second: polySurface130
+  - first:
+      43: 4300064
+    second: polySurface131
+  - first:
+      43: 4300066
+    second: polySurface132
+  - first:
+      43: 4300068
+    second: polySurface133
+  - first:
+      43: 4300070
+    second: polySurface134
+  - first:
+      43: 4300072
+    second: polySurface135
+  - first:
+      43: 4300074
+    second: polySurface136
+  - first:
+      43: 4300076
+    second: polySurface137
+  - first:
+      43: 4300078
+    second: polySurface138
+  - first:
+      43: 4300080
+    second: polySurface139
+  - first:
+      43: 4300082
+    second: polySurface140
+  - first:
+      43: 4300084
+    second: polySurface141
+  - first:
+      43: 4300086
+    second: polySurface142
+  - first:
+      43: 4300088
+    second: polySurface143
+  - first:
+      43: 4300090
+    second: polySurface144
+  - first:
+      43: 4300092
+    second: polySurface145
+  - first:
+      43: 4300094
+    second: polySurface146
+  - first:
+      43: 4300096
+    second: polySurface152
+  - first:
+      43: 4300098
+    second: polySurface153
+  - first:
+      43: 4300100
+    second: polySurface154
+  - first:
+      43: 4300102
+    second: polySurface163
+  - first:
+      43: 4300104
+    second: polySurface164
+  - first:
+      43: 4300106
+    second: polySurface165
+  - first:
+      43: 4300108
+    second: polySurface167
+  - first:
+      43: 4300110
+    second: polySurface168
+  - first:
+      43: 4300112
+    second: polySurface169
+  - first:
+      43: 4300114
+    second: polySurface170
+  - first:
+      43: 4300116
+    second: polySurface171
+  - first:
+      43: 4300118
+    second: polySurface172
+  - first:
+      43: 4300120
+    second: polySurface183
+  - first:
+      43: 4300122
+    second: polySurface187
+  - first:
+      43: 4300124
+    second: polySurface194
+  - first:
+      43: 4300126
+    second: polySurface195
+  - first:
+      43: 4300128
+    second: polySurface196
+  - first:
+      43: 4300130
+    second: polySurface197
+  - first:
+      43: 4300132
+    second: polySurface199
+  - first:
+      43: 4300134
+    second: polySurface200
+  - first:
+      43: 4300136
+    second: polySurface201
+  - first:
+      43: 4300138
+    second: polySurface177
+  - first:
+      43: 4300140
+    second: polySurface181
+  - first:
+      43: 4300142
+    second: polySurface205
+  - first:
+      43: 4300144
+    second: polySurface238
+  - first:
+      43: 4300146
+    second: polySurface300
+  - first:
+      43: 4300148
+    second: polySurface302
+  - first:
+      43: 4300150
+    second: polySurface303
+  - first:
+      43: 4300152
+    second: polySurface304
+  - first:
+      43: 4300154
+    second: polySurface309
+  - first:
+      43: 4300156
+    second: polySurface310
+  - first:
+      43: 4300158
+    second: polySurface311
+  - first:
+      43: 4300160
+    second: polySurface312
+  - first:
+      43: 4300162
+    second: polySurface158
+  - first:
+      43: 4300164
+    second: polySurface159
+  - first:
+      43: 4300166
+    second: polySurface179
+  - first:
+      43: 4300168
+    second: polySurface180
+  - first:
+      43: 4300170
+    second: polySurface299
+  - first:
+      43: 4300172
+    second: polySurface301
+  - first:
+      43: 4300174
+    second: polySurface314
+  - first:
+      43: 4300176
+    second: polySurface321
+  - first:
+      43: 4300178
+    second: polySurface326
+  - first:
+      43: 4300180
+    second: polySurface327
+  - first:
+      43: 4300182
+    second: polySurface328
+  - first:
+      43: 4300184
+    second: polySurface329
+  - first:
+      43: 4300186
+    second: polySurface330
+  - first:
+      43: 4300188
+    second: polySurface332
+  - first:
+      43: 4300190
+    second: polySurface333
+  - first:
+      43: 4300192
+    second: polySurface334
+  - first:
+      43: 4300194
+    second: polySurface335
+  - first:
+      43: 4300196
+    second: polySurface336
+  - first:
+      43: 4300198
+    second: polySurface337
+  - first:
+      43: 4300200
+    second: polySurface338
+  - first:
+      43: 4300202
+    second: polySurface339
+  - first:
+      43: 4300204
+    second: polySurface340
+  - first:
+      43: 4300206
+    second: polySurface219
+  - first:
+      43: 4300208
+    second: polySurface220
+  - first:
+      43: 4300210
+    second: polySurface221
+  - first:
+      43: 4300212
+    second: polySurface222
+  - first:
+      43: 4300214
+    second: polySurface223
+  - first:
+      43: 4300216
+    second: polySurface224
+  - first:
+      43: 4300218
+    second: polySurface225
+  - first:
+      43: 4300220
+    second: polySurface226
+  - first:
+      43: 4300222
+    second: polySurface227
+  - first:
+      43: 4300224
+    second: polySurface228
+  - first:
+      43: 4300226
+    second: polySurface229
+  - first:
+      43: 4300228
+    second: polySurface230
+  - first:
+      43: 4300230
+    second: polySurface231
+  - first:
+      43: 4300232
+    second: polySurface232
+  - first:
+      43: 4300234
+    second: polySurface233
+  - first:
+      43: 4300236
+    second: polySurface239
+  - first:
+      43: 4300238
+    second: polySurface240
+  - first:
+      43: 4300240
+    second: polySurface241
+  - first:
+      43: 4300242
+    second: polySurface242
+  - first:
+      43: 4300244
+    second: polySurface270
+  - first:
+      43: 4300246
+    second: polySurface271
+  - first:
+      43: 4300248
+    second: polySurface272
+  - first:
+      43: 4300250
+    second: polySurface273
+  - first:
+      43: 4300252
+    second: polySurface274
+  - first:
+      43: 4300254
+    second: polySurface275
+  - first:
+      43: 4300256
+    second: polySurface276
+  - first:
+      43: 4300258
+    second: polySurface277
+  - first:
+      43: 4300260
+    second: polySurface278
+  - first:
+      43: 4300262
+    second: polySurface279
+  - first:
+      43: 4300264
+    second: polySurface280
+  - first:
+      43: 4300266
+    second: polySurface281
+  - first:
+      43: 4300268
+    second: polySurface282
+  - first:
+      43: 4300270
+    second: polySurface283
+  - first:
+      43: 4300272
+    second: polySurface284
+  - first:
+      43: 4300274
+    second: polySurface285
+  - first:
+      43: 4300276
+    second: polySurface286
+  - first:
+      43: 4300278
+    second: polySurface287
+  - first:
+      43: 4300280
+    second: polySurface288
+  - first:
+      43: 4300282
+    second: polySurface289
+  - first:
+      43: 4300284
+    second: polySurface290
+  - first:
+      43: 4300286
+    second: polySurface291
+  - first:
+      43: 4300288
+    second: polySurface292
+  - first:
+      43: 4300290
+    second: polySurface293
+  - first:
+      43: 4300292
+    second: polySurface294
+  - first:
+      43: 4300294
+    second: polySurface295
+  - first:
+      43: 4300296
+    second: polySurface296
+  - first:
+      43: 4300298
+    second: polySurface297
+  - first:
+      43: 4300300
+    second: polySurface298
+  - first:
+      43: 4300302
+    second: polySurface305
+  - first:
+      43: 4300304
+    second: polySurface306
+  - first:
+      43: 4300306
+    second: polySurface307
+  - first:
+      43: 4300308
+    second: polySurface308
+  - first:
+      43: 4300310
+    second: polySurface315
+  - first:
+      43: 4300312
+    second: polySurface316
+  - first:
+      43: 4300314
+    second: polySurface317
+  - first:
+      43: 4300316
+    second: polySurface318
+  - first:
+      43: 4300318
+    second: polySurface319
+  - first:
+      43: 4300320
+    second: polySurface320
+  - first:
+      43: 4300322
+    second: polySurface322
+  - first:
+      43: 4300324
+    second: polySurface323
+  - first:
+      43: 4300326
+    second: polySurface324
+  - first:
+      43: 4300328
+    second: polySurface325
+  - first:
+      43: 4300330
+    second: polySurface331
+  - first:
+      43: 4300332
+    second: stray_hair
+  - first:
+      43: 4300334
+    second: hair_base
+  - first:
+      43: 4300336
+    second: teeth
+  - first:
+      43: 4300338
+    second: cornea
+  - first:
+      43: 4300340
+    second: Mask
+  - first:
+      43: 4300342
+    second: Scarf
+  - first:
+      43: 4300344
+    second: WeaponStrap
+  - first:
+      43: 4300346
+    second: Walkie
+  - first:
+      43: 4300348
+    second: Knife
+  - first:
+      43: 4300350
+    second: Pistol
+  - first:
+      43: 4300352
+    second: BackPad
+  - first:
+      43: 4300354
+    second: Body
+  - first:
+      43: 4300356
+    second: R_Pouch02
+  - first:
+      43: 4300358
+    second: R_Pouch01
+  - first:
+      43: 4300360
+    second: L_Pouch03
+  - first:
+      43: 4300362
+    second: L_Pouch02
+  - first:
+      43: 4300364
+    second: L_Pouch01
+  - first:
+      43: 4300366
+    second: L_Pouch04
+  - first:
+      43: 4300368
+    second: L_Pouch05
+  - first:
+      43: 4300370
+    second: R_Pouch03
+  - first:
+      43: 4300372
+    second: R_Pouch04
+  - first:
+      43: 4300374
+    second: BackPouch03
+  - first:
+      43: 4300376
+    second: BackPouch02
+  - first:
+      43: 4300378
+    second: BackPouch01
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: BackPad
+  - first:
+      137: 13700002
+    second: BackPouch01
+  - first:
+      137: 13700004
+    second: BackPouch02
+  - first:
+      137: 13700006
+    second: BackPouch03
+  - first:
+      137: 13700008
+    second: Body
+  - first:
+      137: 13700010
+    second: Cornea
+  - first:
+      137: 13700012
+    second: cornea
+  - first:
+      137: 13700014
+    second: Eyeball
+  - first:
+      137: 13700016
+    second: hair_base
+  - first:
+      137: 13700018
+    second: head
+  - first:
+      137: 13700020
+    second: Knife
+  - first:
+      137: 13700022
+    second: L_Pouch01
+  - first:
+      137: 13700024
+    second: L_Pouch02
+  - first:
+      137: 13700026
+    second: L_Pouch03
+  - first:
+      137: 13700028
+    second: L_Pouch04
+  - first:
+      137: 13700030
+    second: L_Pouch05
+  - first:
+      137: 13700032
+    second: LowerEyebrow
+  - first:
+      137: 13700034
+    second: Mask
+  - first:
+      137: 13700036
+    second: Pistol
+  - first:
+      137: 13700038
+    second: polySurface130
+  - first:
+      137: 13700040
+    second: polySurface131
+  - first:
+      137: 13700042
+    second: polySurface132
+  - first:
+      137: 13700044
+    second: polySurface133
+  - first:
+      137: 13700046
+    second: polySurface134
+  - first:
+      137: 13700048
+    second: polySurface135
+  - first:
+      137: 13700050
+    second: polySurface136
+  - first:
+      137: 13700052
+    second: polySurface137
+  - first:
+      137: 13700054
+    second: polySurface138
+  - first:
+      137: 13700056
+    second: polySurface139
+  - first:
+      137: 13700058
+    second: polySurface140
+  - first:
+      137: 13700060
+    second: polySurface141
+  - first:
+      137: 13700062
+    second: polySurface142
+  - first:
+      137: 13700064
+    second: polySurface143
+  - first:
+      137: 13700066
+    second: polySurface144
+  - first:
+      137: 13700068
+    second: polySurface145
+  - first:
+      137: 13700070
+    second: polySurface146
+  - first:
+      137: 13700072
+    second: polySurface147
+  - first:
+      137: 13700074
+    second: polySurface148
+  - first:
+      137: 13700076
+    second: polySurface149
+  - first:
+      137: 13700078
+    second: polySurface150
+  - first:
+      137: 13700080
+    second: polySurface151
+  - first:
+      137: 13700082
+    second: polySurface152
+  - first:
+      137: 13700084
+    second: polySurface153
+  - first:
+      137: 13700086
+    second: polySurface154
+  - first:
+      137: 13700088
+    second: polySurface155
+  - first:
+      137: 13700090
+    second: polySurface156
+  - first:
+      137: 13700092
+    second: polySurface157
+  - first:
+      137: 13700094
+    second: polySurface158
+  - first:
+      137: 13700096
+    second: polySurface159
+  - first:
+      137: 13700098
+    second: polySurface160
+  - first:
+      137: 13700100
+    second: polySurface161
+  - first:
+      137: 13700102
+    second: polySurface162
+  - first:
+      137: 13700104
+    second: polySurface163
+  - first:
+      137: 13700106
+    second: polySurface164
+  - first:
+      137: 13700108
+    second: polySurface165
+  - first:
+      137: 13700110
+    second: polySurface166
+  - first:
+      137: 13700112
+    second: polySurface167
+  - first:
+      137: 13700114
+    second: polySurface168
+  - first:
+      137: 13700116
+    second: polySurface169
+  - first:
+      137: 13700118
+    second: polySurface170
+  - first:
+      137: 13700120
+    second: polySurface171
+  - first:
+      137: 13700122
+    second: polySurface172
+  - first:
+      137: 13700124
+    second: polySurface174
+  - first:
+      137: 13700126
+    second: polySurface175
+  - first:
+      137: 13700128
+    second: polySurface176
+  - first:
+      137: 13700130
+    second: polySurface177
+  - first:
+      137: 13700132
+    second: polySurface179
+  - first:
+      137: 13700134
+    second: polySurface180
+  - first:
+      137: 13700136
+    second: polySurface181
+  - first:
+      137: 13700138
+    second: polySurface182
+  - first:
+      137: 13700140
+    second: polySurface183
+  - first:
+      137: 13700142
+    second: polySurface185
+  - first:
+      137: 13700144
+    second: polySurface186
+  - first:
+      137: 13700146
+    second: polySurface187
+  - first:
+      137: 13700148
+    second: polySurface188
+  - first:
+      137: 13700150
+    second: polySurface189
+  - first:
+      137: 13700152
+    second: polySurface190
+  - first:
+      137: 13700154
+    second: polySurface192
+  - first:
+      137: 13700156
+    second: polySurface193
+  - first:
+      137: 13700158
+    second: polySurface194
+  - first:
+      137: 13700160
+    second: polySurface195
+  - first:
+      137: 13700162
+    second: polySurface196
+  - first:
+      137: 13700164
+    second: polySurface197
+  - first:
+      137: 13700166
+    second: polySurface198
+  - first:
+      137: 13700168
+    second: polySurface199
+  - first:
+      137: 13700170
+    second: polySurface200
+  - first:
+      137: 13700172
+    second: polySurface201
+  - first:
+      137: 13700174
+    second: polySurface202
+  - first:
+      137: 13700176
+    second: polySurface205
+  - first:
+      137: 13700178
+    second: polySurface219
+  - first:
+      137: 13700180
+    second: polySurface220
+  - first:
+      137: 13700182
+    second: polySurface221
+  - first:
+      137: 13700184
+    second: polySurface222
+  - first:
+      137: 13700186
+    second: polySurface223
+  - first:
+      137: 13700188
+    second: polySurface224
+  - first:
+      137: 13700190
+    second: polySurface225
+  - first:
+      137: 13700192
+    second: polySurface226
+  - first:
+      137: 13700194
+    second: polySurface227
+  - first:
+      137: 13700196
+    second: polySurface228
+  - first:
+      137: 13700198
+    second: polySurface229
+  - first:
+      137: 13700200
+    second: polySurface230
+  - first:
+      137: 13700202
+    second: polySurface231
+  - first:
+      137: 13700204
+    second: polySurface232
+  - first:
+      137: 13700206
+    second: polySurface233
+  - first:
+      137: 13700208
+    second: polySurface238
+  - first:
+      137: 13700210
+    second: polySurface239
+  - first:
+      137: 13700212
+    second: polySurface240
+  - first:
+      137: 13700214
+    second: polySurface241
+  - first:
+      137: 13700216
+    second: polySurface242
+  - first:
+      137: 13700218
+    second: polySurface270
+  - first:
+      137: 13700220
+    second: polySurface271
+  - first:
+      137: 13700222
+    second: polySurface272
+  - first:
+      137: 13700224
+    second: polySurface273
+  - first:
+      137: 13700226
+    second: polySurface274
+  - first:
+      137: 13700228
+    second: polySurface275
+  - first:
+      137: 13700230
+    second: polySurface276
+  - first:
+      137: 13700232
+    second: polySurface277
+  - first:
+      137: 13700234
+    second: polySurface278
+  - first:
+      137: 13700236
+    second: polySurface279
+  - first:
+      137: 13700238
+    second: polySurface280
+  - first:
+      137: 13700240
+    second: polySurface281
+  - first:
+      137: 13700242
+    second: polySurface282
+  - first:
+      137: 13700244
+    second: polySurface283
+  - first:
+      137: 13700246
+    second: polySurface284
+  - first:
+      137: 13700248
+    second: polySurface285
+  - first:
+      137: 13700250
+    second: polySurface286
+  - first:
+      137: 13700252
+    second: polySurface287
+  - first:
+      137: 13700254
+    second: polySurface288
+  - first:
+      137: 13700256
+    second: polySurface289
+  - first:
+      137: 13700258
+    second: polySurface290
+  - first:
+      137: 13700260
+    second: polySurface291
+  - first:
+      137: 13700262
+    second: polySurface292
+  - first:
+      137: 13700264
+    second: polySurface293
+  - first:
+      137: 13700266
+    second: polySurface294
+  - first:
+      137: 13700268
+    second: polySurface295
+  - first:
+      137: 13700270
+    second: polySurface296
+  - first:
+      137: 13700272
+    second: polySurface297
+  - first:
+      137: 13700274
+    second: polySurface298
+  - first:
+      137: 13700276
+    second: polySurface299
+  - first:
+      137: 13700278
+    second: polySurface300
+  - first:
+      137: 13700280
+    second: polySurface301
+  - first:
+      137: 13700282
+    second: polySurface302
+  - first:
+      137: 13700284
+    second: polySurface303
+  - first:
+      137: 13700286
+    second: polySurface304
+  - first:
+      137: 13700288
+    second: polySurface305
+  - first:
+      137: 13700290
+    second: polySurface306
+  - first:
+      137: 13700292
+    second: polySurface307
+  - first:
+      137: 13700294
+    second: polySurface308
+  - first:
+      137: 13700296
+    second: polySurface309
+  - first:
+      137: 13700298
+    second: polySurface310
+  - first:
+      137: 13700300
+    second: polySurface311
+  - first:
+      137: 13700302
+    second: polySurface312
+  - first:
+      137: 13700304
+    second: polySurface314
+  - first:
+      137: 13700306
+    second: polySurface315
+  - first:
+      137: 13700308
+    second: polySurface316
+  - first:
+      137: 13700310
+    second: polySurface317
+  - first:
+      137: 13700312
+    second: polySurface318
+  - first:
+      137: 13700314
+    second: polySurface319
+  - first:
+      137: 13700316
+    second: polySurface320
+  - first:
+      137: 13700318
+    second: polySurface321
+  - first:
+      137: 13700320
+    second: polySurface322
+  - first:
+      137: 13700322
+    second: polySurface323
+  - first:
+      137: 13700324
+    second: polySurface324
+  - first:
+      137: 13700326
+    second: polySurface325
+  - first:
+      137: 13700328
+    second: polySurface326
+  - first:
+      137: 13700330
+    second: polySurface327
+  - first:
+      137: 13700332
+    second: polySurface328
+  - first:
+      137: 13700334
+    second: polySurface329
+  - first:
+      137: 13700336
+    second: polySurface330
+  - first:
+      137: 13700338
+    second: polySurface331
+  - first:
+      137: 13700340
+    second: polySurface332
+  - first:
+      137: 13700342
+    second: polySurface333
+  - first:
+      137: 13700344
+    second: polySurface334
+  - first:
+      137: 13700346
+    second: polySurface335
+  - first:
+      137: 13700348
+    second: polySurface336
+  - first:
+      137: 13700350
+    second: polySurface337
+  - first:
+      137: 13700352
+    second: polySurface338
+  - first:
+      137: 13700354
+    second: polySurface339
+  - first:
+      137: 13700356
+    second: polySurface340
+  - first:
+      137: 13700358
+    second: R_Pouch01
+  - first:
+      137: 13700360
+    second: R_Pouch02
+  - first:
+      137: 13700362
+    second: R_Pouch03
+  - first:
+      137: 13700364
+    second: R_Pouch04
+  - first:
+      137: 13700366
+    second: Scarf
+  - first:
+      137: 13700368
+    second: stray_hair
+  - first:
+      137: 13700370
+    second: teeth
+  - first:
+      137: 13700372
+    second: Tongue
+  - first:
+      137: 13700374
+    second: UpperEyebrow
+  - first:
+      137: 13700376
+    second: Walkie
+  - first:
+      137: 13700378
+    second: WeaponStrap
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOTS_ELENA_Lowpoly_DOTS_Elena_Body_MAT
+    second: {fileID: 2100000, guid: fd806926dd1d7f547b70c5e6727782c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOTS_ELENA_Lowpoly_DOTS_Elena_Cornea_MAT
+    second: {fileID: 2100000, guid: 7e0de42d7514b5d4fbb8b57cd610613c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOTS_ELENA_Lowpoly_DOTS_Elena_EyeMouth_MAT
+    second: {fileID: 2100000, guid: 7e0de42d7514b5d4fbb8b57cd610613c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOTS_ELENA_Lowpoly_DOTS_Elena_HairBase_MAT
+    second: {fileID: 2100000, guid: 4411a7c493e8e0643b2e4e834c79ec25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOTS_ELENA_Lowpoly_DOTS_Elena_Hair_MAT
+    second: {fileID: 2100000, guid: 4411a7c493e8e0643b2e4e834c79ec25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOTS_ELENA_Lowpoly_DOTS_Elena__Head_MAT
+    second: {fileID: 2100000, guid: d3ce255b83422484681030946ca0d758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 7e0de42d7514b5d4fbb8b57cd610613c, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.97
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftEyeball
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightEyeball
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: DOTS_Elena_RIG2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DOTS_Elena_Body
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackPad
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Knife
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pistol
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pouch
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackPouch01
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackPouch02
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackPouch03
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Pouch01
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Pouch02
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Pouch03
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Pouch04
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Pouch05
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Pouch01
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Pouch02
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Pouch03
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Pouch04
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Scarf
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Walkie
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WeaponStrap
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DOTS_Elena_Head
+      parentName: 
+      position: {x: -0, y: 0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cornea
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cornea
+      parentName: 
+      position: {x: -0, y: 0.028931005, z: -0.007678313}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyeball
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bright
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface130
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface131
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface132
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface133
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface134
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface135
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface136
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface137
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface138
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface139
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface140
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface141
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface142
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface143
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface144
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface145
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface146
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface147
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface148
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface149
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface150
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface151
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface152
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface153
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface154
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface155
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface156
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface157
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface158
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface159
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface160
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface161
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface162
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface163
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface164
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface165
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface166
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface167
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface168
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface169
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface170
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface171
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface172
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface174
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface175
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface176
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface177
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface179
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface180
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface181
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface182
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface183
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface185
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface186
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface187
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface188
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface189
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface190
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface192
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface193
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface194
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface195
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface196
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface197
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface198
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface199
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface200
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface201
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface202
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface205
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface238
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface299
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface300
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface301
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface302
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface303
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface304
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface309
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface310
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface311
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface312
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface314
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface321
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface326
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface327
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface328
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface329
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface330
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface332
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface333
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface334
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface335
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface336
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface337
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface338
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface339
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface340
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: darker
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface219
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface220
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface221
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface222
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface223
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface224
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface225
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface226
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface227
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface228
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface229
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface230
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface231
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface232
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface233
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface239
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface240
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface241
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface242
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface270
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface271
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface272
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface273
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface274
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface275
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface276
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface277
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface278
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface279
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface280
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface281
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface282
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface283
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface284
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface285
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface286
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface287
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface288
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface289
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface290
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface291
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface292
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface293
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface294
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface295
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface296
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface297
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface298
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface305
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface306
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface307
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface308
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface315
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface316
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface317
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface318
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface319
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface320
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface322
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface323
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface324
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface325
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface331
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: stray_hair
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair_base
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerEyebrow
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: teeth
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tongue
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperEyebrow
+      parentName: 
+      position: {x: -0, y: -0.0352789, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:Reference
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:ChestEndEffector
+      parentName: 
+      position: {x: -0.000000004625321, y: 1.3892127, z: -0.03580115}
+      rotation: {x: -1.7633778e-33, y: -6.162976e-33, z: 6.162976e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:ChestOriginEffector
+      parentName: 
+      position: {x: -0, y: 1.0874962, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:HeadEffector
+      parentName: 
+      position: {x: -0, y: 1.5340375, z: -0.010201093}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:Hips
+      parentName: 
+      position: {x: -0, y: 1.0314854, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftUpLeg
+      parentName: 
+      position: {x: -0.08318614, y: -0.057713956, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftUpLegRoll
+      parentName: 
+      position: {x: -0, y: -0.16738786, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftLeg
+      parentName: 
+      position: {x: -0, y: -0.25538734, z: 0}
+      rotation: {x: -1.2067882e-33, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftFoot
+      parentName: 
+      position: {x: -0, y: -0.44214123, z: 0}
+      rotation: {x: -2.0718717e-17, y: 5.293956e-23, z: 5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftToeBase
+      parentName: 
+      position: {x: -0.00000008337674, y: -0.06555298, z: 0.09990748}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightUpLeg
+      parentName: 
+      position: {x: 0.08318876, y: -0.0577117, z: 0}
+      rotation: {x: -1.0092583e-21, y: 2.5849394e-26, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightUpLegRoll
+      parentName: 
+      position: {x: -0.0000030565845, y: -0.16739233, z: 0}
+      rotation: {x: 7.4267814e-22, y: 4.038968e-28, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightLeg
+      parentName: 
+      position: {x: 0.000000026872105, y: -0.2553848, z: 0.0000043437035}
+      rotation: {x: -3.041893e-33, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightFoot
+      parentName: 
+      position: {x: -0.000000009092586, y: -0.44214123, z: 0}
+      rotation: {x: -2.075379e-17, y: 3.515829e-37, z: -1.694066e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightToeBase
+      parentName: 
+      position: {x: 0.000010735485, y: -0.06555298, z: 0.09990778}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:Spine
+      parentName: 
+      position: {x: -0, y: 0.05601059, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:Spine1
+      parentName: 
+      position: {x: -0, y: 0.06475893, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:Spine2
+      parentName: 
+      position: {x: -0, y: 0.1291557, z: 0}
+      rotation: {x: -1.7633778e-33, y: -6.162976e-33, z: 6.162976e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftShoulder
+      parentName: 
+      position: {x: -0.069258004, y: 0.10780124, z: -0.03580115}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftArm
+      parentName: 
+      position: {x: -0.085317016, y: 0.0000013594356, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftArmRoll
+      parentName: 
+      position: {x: -0.14007227, y: 0, z: 0}
+      rotation: {x: 0, y: 4.759842e-33, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftForeArm
+      parentName: 
+      position: {x: -0.10560856, y: 0, z: 0}
+      rotation: {x: -6.3108872e-30, y: -9.938996e-23, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftForeArmRoll
+      parentName: 
+      position: {x: -0.14052448, y: 0, z: 0}
+      rotation: {x: -2.1175815e-22, y: 9.919956e-22, z: -4.3344264e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHand
+      parentName: 
+      position: {x: -0.119455695, y: 0.0000000047328688, z: -0.0000008145885}
+      rotation: {x: 2.1186168e-22, y: -4.2351645e-22, z: 4.290057e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandIndex1
+      parentName: 
+      position: {x: -0.11456612, y: -0.010459092, z: 0.038977433}
+      rotation: {x: 2.646978e-23, y: 3.469447e-18, z: 2.266475e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandIndex2
+      parentName: 
+      position: {x: -0.02954174, y: -0.00000022160368, z: 0.0014557411}
+      rotation: {x: 2.646978e-23, y: -6.938894e-18, z: -8.536504e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandIndex3
+      parentName: 
+      position: {x: -0.020507295, y: -0.00000013858265, z: 0.00091434055}
+      rotation: {x: -4.85006e-40, y: -3.469447e-18, z: -1.3979352e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandIndex4
+      parentName: 
+      position: {x: -0.019362928, y: -0.00000005748877, z: 0.0006746197}
+      rotation: {x: 1.626099e-15, y: 3.7907177e-14, z: -3.082422e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandMiddle1
+      parentName: 
+      position: {x: -0.118062004, y: -0.0068893624, z: 0.017512847}
+      rotation: {x: 4.9e-44, y: -6.7762636e-21, z: 7.179639e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandMiddle2
+      parentName: 
+      position: {x: -0.036947157, y: -0.000000003688009, z: 0.000002740541}
+      rotation: {x: -1.21169035e-27, y: -0, z: 5.813941e-25, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandMiddle3
+      parentName: 
+      position: {x: -0.022561153, y: -0.00000000225202, z: 0.0000015457726}
+      rotation: {x: 1.2924697e-26, y: -3.3881318e-21, z: -2.1120033e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandMiddle4
+      parentName: 
+      position: {x: -0.01984365, y: -0.00000017285372, z: 0.0000010872071}
+      rotation: {x: 4.5332436e-17, y: 4.0966095e-14, z: -5.288672e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandPinky1
+      parentName: 
+      position: {x: -0.11435515, y: -0.0010555094, z: -0.025462346}
+      rotation: {x: 3.877409e-26, y: -4.2351647e-22, z: -1.7834665e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandPinky2
+      parentName: 
+      position: {x: -0.022756258, y: 0.00000039942486, z: -0.00000015517867}
+      rotation: {x: -1.2924697e-26, y: 4.2351647e-22, z: 6.7829987e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandPinky3
+      parentName: 
+      position: {x: -0.014881857, y: 0.00000025872674, z: -0.00000010289673}
+      rotation: {x: -6.4623485e-27, y: 0, z: -1.8122938e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandPinky4
+      parentName: 
+      position: {x: -0.016489515, y: 0.0000002420312, z: -0.0000001037899}
+      rotation: {x: 4.5200927e-17, y: 4.0966105e-14, z: 1.362445e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandRing1
+      parentName: 
+      position: {x: -0.11891744, y: -0.0016179717, z: -0.0055667786}
+      rotation: {x: 5.04871e-29, y: 0, z: 9.60913e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandRing2
+      parentName: 
+      position: {x: -0.03632597, y: -0.0000000036260086, z: -0.00000024683223}
+      rotation: {x: 1.009742e-28, y: -4.2351647e-22, z: -1.1680767e-25, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandRing3
+      parentName: 
+      position: {x: -0.01955751, y: -0.0000000019522037, z: -0.00000013452349}
+      rotation: {x: 3.9e-44, y: -8.4703295e-22, z: 4.706864e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandRing4
+      parentName: 
+      position: {x: -0.019029634, y: 0.00000011778856, z: -0.00000013387447}
+      rotation: {x: 4.5196533e-17, y: 4.0966098e-14, z: 3.6243428e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandThumb1
+      parentName: 
+      position: {x: -0.06346028, y: -0.021952711, z: 0.038033236}
+      rotation: {x: -3.469447e-18, y: 4.0766002e-17, z: -2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandThumb2
+      parentName: 
+      position: {x: -0.024859607, y: -0.00530417, z: 0.0069993837}
+      rotation: {x: -1.6155871e-27, y: -4.1961143e-23, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandThumb3
+      parentName: 
+      position: {x: -0.025161829, y: -0.00000013311242, z: -0.000000079152954}
+      rotation: {x: 0, y: 3.2876474e-22, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandThumb4
+      parentName: 
+      position: {x: -0.02638474, y: 0.000000098318814, z: -0.00000026061196}
+      rotation: {x: 4.5200927e-17, y: 4.0979983e-14, z: 1.3208115e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:Neck
+      parentName: 
+      position: {x: -0, y: 0.20493045, z: -0.01186599}
+      rotation: {x: -1.938917e-33, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:Head
+      parentName: 
+      position: {x: -0, y: 0.047696523, z: 0.0016648907}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightShoulder
+      parentName: 
+      position: {x: 0.06925799, y: 0.10780124, z: -0.03580115}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightArm
+      parentName: 
+      position: {x: 0.085315965, y: 0.0000042860806, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightArmRoll
+      parentName: 
+      position: {x: 0.1400749, y: -0.000002577964, z: -0.0000002456582}
+      rotation: {x: 1.2924697e-26, y: -2.7384187e-22, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightForeArm
+      parentName: 
+      position: {x: 0.10560643, y: 0.000002577964, z: 0.0000002456582}
+      rotation: {x: -5.04871e-29, y: 1.5508588e-22, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightForeArmRoll
+      parentName: 
+      position: {x: 0.14052682, y: -0.0000041803332, z: -0.0000012933787}
+      rotation: {x: -6.162976e-33, y: -1.880791e-37, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHand
+      parentName: 
+      position: {x: 0.119452596, y: 0.000004167471, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandIndex1
+      parentName: 
+      position: {x: 0.11456845, y: -0.010464525, z: 0.038978502}
+      rotation: {x: 7.4616e-41, y: -3.469447e-18, z: 2.1506696e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandIndex2
+      parentName: 
+      position: {x: 0.02954172, y: -0.00000015603024, z: 0.0014560486}
+      rotation: {x: -3.552886e-39, y: -6.938894e-18, z: -5.120248e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandIndex3
+      parentName: 
+      position: {x: 0.020507438, y: -0.00000009341838, z: 0.00091099134}
+      rotation: {x: 0, y: 0, z: 1.2176099e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandIndex4
+      parentName: 
+      position: {x: 0.019361153, y: 0.0000036492418, z: 0.000681118}
+      rotation: {x: 3.3376317e-16, y: -1.9272778e-13, z: -1.454239e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandMiddle1
+      parentName: 
+      position: {x: 0.11806462, y: -0.006894873, z: 0.017513942}
+      rotation: {x: -5.169879e-26, y: 6.7762636e-21, z: 1.1146482e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandMiddle2
+      parentName: 
+      position: {x: 0.036947157, y: -0.00000034958433, z: 0.0000031858206}
+      rotation: {x: 4.82e-43, y: 6.7762636e-21, z: -7.122443e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandMiddle3
+      parentName: 
+      position: {x: 0.022561153, y: -0.00000021346743, z: 0.0000018176753}
+      rotation: {x: -1.0339758e-25, y: 0, z: -4.8477196e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandMiddle4
+      parentName: 
+      position: {x: 0.019843739, y: -0.0000001606679, z: 0.0000013278185}
+      rotation: {x: -1.0268258e-20, y: -1.1942293e-13, z: -8.1087554e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandPinky1
+      parentName: 
+      position: {x: 0.11435844, y: -0.0010611218, z: -0.025461316}
+      rotation: {x: 0, y: -6.4623485e-27, z: 7.8967855e-26, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandPinky2
+      parentName: 
+      position: {x: 0.022756258, y: 0.0000004016964, z: -2.1524883e-12}
+      rotation: {x: -1.009742e-28, y: -6.617445e-24, z: -4.437297e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandPinky3
+      parentName: 
+      position: {x: 0.014881857, y: 0.00000026021308, z: -0.0000000014162398}
+      rotation: {x: 3e-45, y: -2.646978e-23, z: 1.282818e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandPinky4
+      parentName: 
+      position: {x: 0.016489418, y: 0.00000027899821, z: 0.000000005753836}
+      rotation: {x: -1.1130485e-20, y: -1.1938969e-13, z: -7.187562e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandRing1
+      parentName: 
+      position: {x: 0.11892045, y: -0.001623554, z: -0.005565682}
+      rotation: {x: -1.009742e-28, y: 6.617445e-24, z: 3.7065792e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandRing2
+      parentName: 
+      position: {x: 0.03632597, y: -0.00000042942767, z: -0.0000000034669383}
+      rotation: {x: 4.038968e-28, y: 1.323489e-23, z: 6.2405077e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandRing3
+      parentName: 
+      position: {x: 0.01955751, y: -0.00000023119921, z: -0.0000000034982517}
+      rotation: {x: 0, y: 0, z: 3.5442364e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandRing4
+      parentName: 
+      position: {x: 0.019029627, y: -0.00000018093488, z: -0.000000012522458}
+      rotation: {x: -4.7915148e-21, y: -1.1938969e-13, z: -2.1866723e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandThumb1
+      parentName: 
+      position: {x: 0.06346257, y: -0.021957833, z: 0.038033634}
+      rotation: {x: 3.469447e-18, y: 5.2041704e-18, z: -1.8055595e-35, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandThumb2
+      parentName: 
+      position: {x: 0.024859393, y: -0.0053043026, z: 0.007000043}
+      rotation: {x: -3.2311743e-27, y: -3.5926768e-22, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandThumb3
+      parentName: 
+      position: {x: 0.025161829, y: -0.0000003142764, z: 0.00000011093987}
+      rotation: {x: 4.8467614e-27, y: 3.0026457e-22, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandThumb4
+      parentName: 
+      position: {x: 0.026384758, y: -0.000000083793054, z: -0.00000006143227}
+      rotation: {x: -2.856193e-19, y: -1.1935984e-13, z: 7.855807e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:HipsEffector
+      parentName: 
+      position: {x: 0.0000013089656, y: 0.9737733, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftAnkleEffector
+      parentName: 
+      position: {x: -0.08318614, y: 0.10885544, z: 0}
+      rotation: {x: -2.0718717e-17, y: 5.293956e-23, z: 5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftElbowEffector
+      parentName: 
+      position: {x: -0.40025586, y: 1.3892137, z: -0.03580115}
+      rotation: {x: -2.1175821e-22, y: 3.2412654e-22, z: -4.3344264e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftFootEffector
+      parentName: 
+      position: {x: -0.083186224, y: 0.04330245, z: 0.09990748}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandIndexEffector
+      parentName: 
+      position: {x: -0.8442141, y: 1.3787541, z: 0.006220177}
+      rotation: {x: -4.85006e-40, y: -3.469447e-18, z: -1.3979352e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandMiddleEffector
+      parentName: 
+      position: {x: -0.85765, y: 1.3823237, z: -0.018283743}
+      rotation: {x: 1.1632226e-25, y: -3.3881318e-21, z: -2.1120039e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandPinkyEffector
+      parentName: 
+      position: {x: -0.8287189, y: 1.3881594, z: -0.06126467}
+      rotation: {x: 9.693523e-26, y: -0, z: -1.8122938e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandRingEffector
+      parentName: 
+      position: {x: -0.8540666, y: 1.3875958, z: -0.041369252}
+      rotation: {x: 1.0339758e-25, y: -8.4703295e-22, z: 4.706864e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHandThumbEffector
+      parentName: 
+      position: {x: -0.8001025, y: 1.3619566, z: 0.0092303185}
+      rotation: {x: 1.0339758e-25, y: 3.2876474e-22, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftHipEffector
+      parentName: 
+      position: {x: -0.08318614, y: 0.9737714, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftKneeEffector
+      parentName: 
+      position: {x: -0.08318614, y: 0.55099666, z: 0}
+      rotation: {x: -1.2067882e-33, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftShoulderEffector
+      parentName: 
+      position: {x: -0.15457503, y: 1.3892137, z: -0.03580115}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:LeftWristEffector
+      parentName: 
+      position: {x: -0.660236, y: 1.3892137, z: -0.035801955}
+      rotation: {x: 1.0339758e-25, y: 0, z: -4.537089e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightAnkleEffector
+      parentName: 
+      position: {x: 0.083185725, y: 0.10885574, z: 0.0000043437035}
+      rotation: {x: -2.075379e-17, y: 3.515829e-37, z: -1.694066e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightElbowEffector
+      parentName: 
+      position: {x: 0.4002553, y: 1.3892165, z: -0.03580115}
+      rotation: {x: -5.04871e-29, y: 1.5508588e-22, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightFootEffector
+      parentName: 
+      position: {x: 0.083196454, y: 0.04330274, z: 0.09991213}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandIndexEffector
+      parentName: 
+      position: {x: 0.8442134, y: 1.3787551, z: 0.0062242164}
+      rotation: {x: 0, y: 0, z: 1.2176099e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandMiddleEffector
+      parentName: 
+      position: {x: 0.85765135, y: 1.3823208, z: -0.018282162}
+      rotation: {x: -1.0339758e-25, y: 0, z: -4.8477196e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandPinkyEffector
+      parentName: 
+      position: {x: 0.8287207, y: 1.3881564, z: -0.061263744}
+      rotation: {x: 3e-45, y: -2.646978e-23, z: 1.282818e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandRingEffector
+      parentName: 
+      position: {x: 0.85406816, y: 1.3875918, z: -0.041368145}
+      rotation: {x: -4.038968e-28, y: -0, z: 3.5442364e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHandThumbEffector
+      parentName: 
+      position: {x: 0.8001032, y: 1.3619537, z: 0.009231285}
+      rotation: {x: 4.8467614e-27, y: 3.0026457e-22, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightHipEffector
+      parentName: 
+      position: {x: 0.08318876, y: 0.9737743, z: 0}
+      rotation: {x: -1.0092583e-21, y: 2.5849394e-26, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightKneeEffector
+      parentName: 
+      position: {x: 0.083185725, y: 0.55099684, z: 0.0000043437035}
+      rotation: {x: -3.041893e-33, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightShoulderEffector
+      parentName: 
+      position: {x: 0.15457396, y: 1.3892165, z: -0.03580115}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Elena_Ctrl:RightWristEffector
+      parentName: 
+      position: {x: 0.6602347, y: 1.3892165, z: -0.03580244}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Extra_CTL_GRP
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eye_Up_LOC_GRP
+      parentName: 
+      position: {x: -0, y: 1.534038, z: -0.010201096}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_eye_Up_LOC
+      parentName: 
+      position: {x: -0.031318836, y: 0.1936646, z: 0.06941345}
+      rotation: {x: -0.037750293, y: -0.013357407, z: 0.0010028577, w: 0.9991974}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_eye_Up_LOC
+      parentName: 
+      position: {x: 0.031330857, y: 0.20574592, z: 0.068498924}
+      rotation: {x: 0.9991974, y: -0.0010028577, z: -0.013357407, w: 0.037750293}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyeball_Aim_CTL_GRP
+      parentName: 
+      position: {x: -0, y: 1.534038, z: -0.010201096}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyeball_Aim_Head_CON
+      parentName: 
+      position: {x: -0, y: -0.000000069379816, z: 4.3362378e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyeball_Aim_World_CON
+      parentName: 
+      position: {x: -0.00078441395, y: 0.11104188, z: 0.18424548}
+      rotation: {x: -0.037750293, y: -0.013357407, z: 0.0010028577, w: 0.9991974}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyeball_Aim_CTL
+      parentName: 
+      position: {x: -1.9507919e-10, y: -0.0000000645698, z: -0.000000004883343}
+      rotation: {x: 6.938894e-18, y: -1.0408341e-17, z: -4.98733e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Eyeball_Aim_CTL_GRP
+      parentName: 
+      position: {x: -0.033331115, y: -0.00047540502, z: 0}
+      rotation: {x: -0.0010681587, y: -0.707106, z: 0.001068162, w: 0.70710593}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Eyeball_Aim_CTL
+      parentName: 
+      position: {x: -1.9507919e-10, y: -0.0000000645698, z: -0.000000004883343}
+      rotation: {x: 1.3877788e-17, y: -2.6020852e-17, z: -6.2883726e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Eyeball_Aim_CTL_GRP
+      parentName: 
+      position: {x: 0.029101793, y: -0.0005337873, z: -3.4461324e-17}
+      rotation: {x: 0.0019235928, y: 0.725822, z: 0.00021219646, w: 0.68787986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Eyeball_Aim_CTL
+      parentName: 
+      position: {x: 1.6721079e-10, y: 0.000000055345538, z: 0.0000000041857176}
+      rotation: {x: 4.3715032e-16, y: -2.6020852e-17, z: -6.2883726e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Finger_End_LOC_GRP
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandIndex4_LOC_GRP
+      parentName: 
+      position: {x: -0.82485116, y: 1.3787541, z: 0.0055455565}
+      rotation: {x: -8.609797e-10, y: -0.000003409583, z: 0.00000004990931, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandIndex4_LOC
+      parentName: 
+      position: {x: -0.019362941, y: -0.000000032357747, z: 0.0006747516}
+      rotation: {x: 3.61058e-15, y: 9.3769556e-14, z: -1.5737511e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandMiddle4_LOC_GRP
+      parentName: 
+      position: {x: -0.8378063, y: 1.3823242, z: -0.018284826}
+      rotation: {x: -8.609797e-10, y: -0.000003409583, z: 0.00000004990931, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandMiddle4_LOC
+      parentName: 
+      position: {x: -0.019843634, y: -0.0000002031315, z: 0.0000012225032}
+      rotation: {x: 9.052203e-17, y: 8.824437e-14, z: 8.3357735e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandPinky4_LOC_GRP
+      parentName: 
+      position: {x: -0.8122294, y: 1.3881588, z: -0.061264563}
+      rotation: {x: -8.609797e-10, y: -0.000003409583, z: 0.00000004990931, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandPinky4_LOC
+      parentName: 
+      position: {x: -0.016489502, y: 0.00000031208842, z: 0.000000009425627}
+      rotation: {x: 9.0403343e-17, y: 8.824437e-14, z: 2.7248902e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandRing4_LOC_GRP
+      parentName: 
+      position: {x: -0.83503693, y: 1.3875958, z: -0.041369118}
+      rotation: {x: -8.609797e-10, y: -0.000003409583, z: 0.00000004990931, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandRing4_LOC
+      parentName: 
+      position: {x: -0.01902965, y: 0.00000009313937, z: -0.0000000036984449}
+      rotation: {x: 9.0382664e-17, y: 8.824437e-14, z: 9.769891e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandThumb4_LOC_GRP
+      parentName: 
+      position: {x: -0.77371776, y: 1.3619566, z: 0.009230579}
+      rotation: {x: -8.609797e-10, y: -0.000003409583, z: 0.00000004990931, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandThumb4_LOC
+      parentName: 
+      position: {x: -0.02638471, y: 0.00000011554924, z: -0.00000008063718}
+      rotation: {x: 9.040282e-17, y: 8.827212e-14, z: 2.6416222e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandIndex4_LOC_GRP
+      parentName: 
+      position: {x: 0.8248523, y: 1.3787519, z: 0.0055430993}
+      rotation: {x: 0, y: 0, z: -1.7710167e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandIndex4_LOC
+      parentName: 
+      position: {x: 0.019361172, y: 0.0000036283159, z: 0.00068111805}
+      rotation: {x: 1.5113443e-15, y: -3.9079682e-13, z: -2.2257547e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandMiddle4_LOC_GRP
+      parentName: 
+      position: {x: 0.83780766, y: 1.3823211, z: -0.018283488}
+      rotation: {x: 0, y: -0.000002616315, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandMiddle4_LOC
+      parentName: 
+      position: {x: 0.019843707, y: -0.000000095253924, z: 0.0000012240151}
+      rotation: {x: -2.1387466e-20, y: -2.6534937e-13, z: -1.4712358e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandPinky4_LOC_GRP
+      parentName: 
+      position: {x: 0.81223124, y: 1.388156, z: -0.061263755}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandPinky4_LOC
+      parentName: 
+      position: {x: 0.016489405, y: 0.0000003120092, z: 0.000000004267762}
+      rotation: {x: -1.7545192e-20, y: -2.3245544e-13, z: -1.5669853e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandRing4_LOC_GRP
+      parentName: 
+      position: {x: 0.8350386, y: 1.3875923, z: -0.041368127}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandRing4_LOC
+      parentName: 
+      position: {x: 0.019029614, y: -0.00000013157448, z: -0.000000013629268}
+      rotation: {x: -8.862319e-21, y: -2.3245544e-13, z: -1.07212955e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandThumb4_LOC_GRP
+      parentName: 
+      position: {x: 0.7737184, y: 1.3619541, z: 0.009231346}
+      rotation: {x: -1.342446e-12, y: -0.00000036780355, z: -0.0000036498993, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandThumb4_LOC
+      parentName: 
+      position: {x: 0.026384788, y: 0.00000011194738, z: -0.00000008062509}
+      rotation: {x: 1.004204e-18, y: -1.9872161e-13, z: 1.834156e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HeadFeature_GRP
+      parentName: 
+      position: {x: -0, y: 1.534038, z: -0.010201096}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jaw_CTL_GRP
+      parentName: 
+      position: {x: -0, y: 0.031254265, z: 0.024188519}
+      rotation: {x: -0.00019678313, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jaw_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lower_lip_CTL_GRP
+      parentName: 
+      position: {x: -0.00873, y: 0.0012744875, z: 0.08221101}
+      rotation: {x: -0.056124125, y: 0, z: -0, w: 0.9984238}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lower_lip_CTL_CON
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lower_lip_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 3.4461324e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lower_lip_CTL_GRP
+      parentName: 
+      position: {x: 0.00873, y: 0.0012762129, z: 0.082210995}
+      rotation: {x: -0.056124125, y: 0, z: -0, w: 0.9984238}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lower_lip_CTL_CON
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lower_lip_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 3.4461324e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_eyeball_CTL_GRP
+      parentName: 
+      position: {x: -0.031227678, y: 0.10236629, z: 0.07632315}
+      rotation: {x: -0.037750293, y: -0.013357407, z: 0.0010028577, w: 0.9991974}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_eyeball_CTL_AIM
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.0010665158, y: 0.707106, z: -0.0010698107, w: 0.70710593}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_eyeball_CTL_ZERO
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.0010681633, y: -0.707106, z: 0.0010681633, w: 0.70710593}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_eyeball_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -1.5046328e-36, y: 6.938894e-18, z: 2.1684043e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_inner_eyebrow_CTL_GRP
+      parentName: 
+      position: {x: -0.011919754, y: 0.11365505, z: 0.103972755}
+      rotation: {x: -0.0563206, y: 0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_inner_eyebrow_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lipCorner_CTL_GRP
+      parentName: 
+      position: {x: -0.027257465, y: 0.03503091, z: 0.097307354}
+      rotation: {x: -0.0563206, y: 0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lipCorner_CTL_CON
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_lipCorner_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_outer_eyebrow_CTL_GRP
+      parentName: 
+      position: {x: -0.039460156, y: 0.11891158, z: 0.093639396}
+      rotation: {x: -0.0563206, y: 0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_outer_eyebrow_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_upper_eyelid_CTL_GRP
+      parentName: 
+      position: {x: -0.03164115, y: 0.10787345, z: 0.09122799}
+      rotation: {x: -0.17598557, y: -0.0133673875, z: -0.0008596638, w: 0.9843016}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_upper_eyelid_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_upper_lip_CTL_GRP
+      parentName: 
+      position: {x: -0.00873, y: 0.04144829, z: 0.1039554}
+      rotation: {x: -0.0563206, y: 0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_upper_lip_CTL_CON
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_upper_lip_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_eyeball_CTL_GRP
+      parentName: 
+      position: {x: 0.03122764, y: 0.10237007, z: 0.076322675}
+      rotation: {x: 0.9991974, y: -0.0010028577, z: -0.013357407, w: 0.037750293}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_eyeball_CTL_AIM
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.72578186, y: 0.00033689127, z: 0.6879247, w: -0.00039078182}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_eyeball_CTL_ZERO
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.70706236, y: -0.0009484513, z: 0.70714957, w: -0.0011945773}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_eyeball_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -6.938894e-18, y: 6.938894e-18, z: 2.1684043e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_inner_eyebrow_CTL_GRP
+      parentName: 
+      position: {x: 0.0119197965, y: 0.113653, z: 0.103973135}
+      rotation: {x: -0.0563206, y: 0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_inner_eyebrow_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lipCorner_CTL_GRP
+      parentName: 
+      position: {x: 0.027257476, y: 0.035032388, z: 0.0973074}
+      rotation: {x: -0.0563206, y: 0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lipCorner_CTL_CON
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_lipCorner_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_outer_eyebrow_CTL_GRP
+      parentName: 
+      position: {x: 0.03946014, y: 0.118912354, z: 0.09363977}
+      rotation: {x: -0.0563206, y: 0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_outer_eyebrow_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_upper_eyelid_CTL_GRP
+      parentName: 
+      position: {x: 0.031641115, y: 0.10787068, z: 0.091228224}
+      rotation: {x: 0.9843016, y: 0.0008596638, z: -0.0133673875, w: 0.17598557}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_upper_eyelid_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_upper_lip_CTL_GRP
+      parentName: 
+      position: {x: 0.00873, y: 0.041446038, z: 0.10395626}
+      rotation: {x: -0.0563206, y: 0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_upper_lip_CTL_CON
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_upper_lip_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerMask_GRP
+      parentName: 
+      position: {x: -0, y: 1.281411, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask04_CTL_GRP
+      parentName: 
+      position: {x: -0, y: 0.22430034, z: 0.10464477}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask04_CTL_CON
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask04_CTL_DRV
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask04_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask05_CTL_GRP
+      parentName: 
+      position: {x: -0, y: 0.19427897, z: 0.10504441}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask05_CTL_CON
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask05_CTL_DRV
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask05_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask06_CTL_GRP
+      parentName: 
+      position: {x: -0, y: 0.16701058, z: 0.10109343}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask06_CTL_CON
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask06_CTL_DRV
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask06_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MaskSetting_CTL_GRP
+      parentName: 
+      position: {x: -0.21533813, y: 0.26756006, z: -0.03427397}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MaskSetting_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperMask_GRP
+      parentName: 
+      position: {x: -0, y: 1.281411, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperMaskDown_CON
+      parentName: 
+      position: {x: -0, y: 0.000000055503847, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperMaskCover_CON
+      parentName: 
+      position: {x: -0, y: 0.25262687, z: -0.010201096}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask01_CTL_GRP
+      parentName: 
+      position: {x: -0, y: 0.066623256, z: 0.11635754}
+      rotation: {x: -0.0563206, y: 0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask01_CTL_CON
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask01_CTL_DRV
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask01_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask02_CTL_GRP
+      parentName: 
+      position: {x: -0, y: 0.040285956, z: 0.10738939}
+      rotation: {x: -0.0563206, y: 0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask02_CTL_CON
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask02_CTL_DRV
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask02_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask03_CTL_GRP
+      parentName: 
+      position: {x: -0, y: 0.009242693, z: 0.09815538}
+      rotation: {x: -0.0563206, y: 0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask03_CTL_CON
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask03_CTL_DRV
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask03_CTL
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Reference
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: 
+      position: {x: -0, y: 1.0314854, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: 
+      position: {x: -0, y: 0.05601059, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine1
+      parentName: 
+      position: {x: -0, y: 0.06475893, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine2
+      parentName: 
+      position: {x: -0, y: 0.1291557, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftShoulder
+      parentName: 
+      position: {x: -0.069258004, y: 0.10780124, z: -0.03580115}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftArm
+      parentName: 
+      position: {x: -0.085317016, y: 0.0000013594356, z: 0}
+      rotation: {x: -0.014442761, y: 0.0031736253, z: 0.026590448, w: 0.99953705}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: LeftArmRoll
+      parentName: 
+      position: {x: -0.14007227, y: -5.513812e-16, z: -4.3076655e-18}
+      rotation: {x: -0, y: -0, z: 0.0000000052386895, w: 1}
+      scale: {x: 1.0000007, y: 1, z: 1}
+    - name: LeftForeArm
+      parentName: 
+      position: {x: -0.10560856, y: 4.1353586e-16, z: 3.0153655e-17}
+      rotation: {x: -0.0044283094, y: 0.030512763, z: -0.022254871, w: 0.9992768}
+      scale: {x: 0.9999993, y: 1, z: 1.0000005}
+    - name: LeftForeArmRoll
+      parentName: 
+      position: {x: -0.14052448, y: -2.756906e-16, z: -3.4461327e-17}
+      rotation: {x: 0.0000014042967, y: -0.0000033527613, z: -0.000002981904, w: 1}
+      scale: {x: 1.000001, y: 1, z: 0.99999976}
+    - name: LeftHand
+      parentName: 
+      position: {x: -0.119455695, y: -0.00000072675215, z: 0}
+      rotation: {x: -0.0000013332375, y: -0.017242998, z: 0.0000031133675, w: 0.9998514}
+      scale: {x: 1.0000012, y: 1.0000014, z: 1.0000005}
+    - name: LeftHandThumb1
+      parentName: 
+      position: {x: -0.06346003, y: -0.021952702, z: 0.03803366}
+      rotation: {x: -0.0822706, y: 0.3072002, z: 0.057375804, w: 0.9463444}
+      scale: {x: 1.0001602, y: 1.000064, z: 1.0000017}
+    - name: LeftHandThumb2
+      parentName: 
+      position: {x: -0.024859566, y: -0.005304168, z: 0.006999553}
+      rotation: {x: 0.00069717295, y: 0.107535206, z: 0.079901956, w: 0.99098504}
+      scale: {x: 1.0000448, y: 1.0000304, z: 1.0000362}
+    - name: LeftHandThumb3
+      parentName: 
+      position: {x: -0.025161829, y: -0.00000013060081, z: 0.00000009242976}
+      rotation: {x: -0, y: -0, z: -4.51028e-16, w: 1}
+      scale: {x: 0.9999687, y: 0.9999947, z: 1.0000112}
+    - name: LeftHandIndex1
+      parentName: 
+      position: {x: -0.114565834, y: -0.010459084, z: 0.03897822}
+      rotation: {x: 0.23212023, y: 0.13128906, z: 0.03215275, w: 0.9632495}
+      scale: {x: 1.0000162, y: 1, z: 0.9999992}
+    - name: LeftHandIndex2
+      parentName: 
+      position: {x: -0.029541729, y: -0.00000021865742, z: 0.001455943}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000788, y: 1.0000114, z: 1.0000103}
+    - name: LeftHandIndex3
+      parentName: 
+      position: {x: -0.020507284, y: -0.00000013653721, z: 0.0009144804}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.000001, z: 1.0000024}
+    - name: LeftHandMiddle1
+      parentName: 
+      position: {x: -0.11806181, y: -0.0068893502, z: 0.017513651}
+      rotation: {x: 0.060493402, y: 0.025574118, z: 0.032582097, w: 0.9973089}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000006}
+    - name: LeftHandMiddle2
+      parentName: 
+      position: {x: -0.036947157, y: 2.756906e-16, z: 0.0000029924897}
+      rotation: {x: 0.0000000037252894, y: -0, z: -0.0000000010477377, w: 1}
+      scale: {x: 1.0000001, y: 1.0000687, z: 0.99999934}
+    - name: LeftHandMiddle3
+      parentName: 
+      position: {x: -0.022561153, y: 2.756906e-16, z: 0.0000016996214}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000019, y: 1.0000017, z: 1.0000007}
+    - name: LeftHandRing1
+      parentName: 
+      position: {x: -0.11891744, y: -0.0016179602, z: -0.005565968}
+      rotation: {x: -0.0044484115, y: -0.006854993, z: 0.037638646, w: 0.999258}
+      scale: {x: 1.0000007, y: 1.0000715, z: 0.9999997}
+    - name: LeftHandRing2
+      parentName: 
+      position: {x: -0.03632597, y: 0, z: 8.805662e-10}
+      rotation: {x: -2.3283059e-10, y: -0, z: 4.802131e-10, w: 1}
+      scale: {x: 1.0000072, y: 1.000069, z: 0.9999943}
+    - name: LeftHandRing3
+      parentName: 
+      position: {x: -0.01955751, y: -2.756906e-16, z: -0.000000001157598}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000008, y: 1.0000613, z: 0.9999878}
+    - name: LeftHandPinky1
+      parentName: 
+      position: {x: -0.11435534, y: -0.0010554978, z: -0.02546157}
+      rotation: {x: 0.03663901, y: -0.0009977685, z: 0.023612445, w: 0.99904907}
+      scale: {x: 0.99999595, y: 0.99999976, z: 1.0000015}
+    - name: LeftHandPinky2
+      parentName: 
+      position: {x: -0.022756258, y: 0.0000004016964, z: 2.0676793e-16}
+      rotation: {x: -0, y: 0.000000014901158, z: -4.6566118e-10, w: 1}
+      scale: {x: 1.0000012, y: 1.0000055, z: 1.0000001}
+    - name: LeftHandPinky3
+      parentName: 
+      position: {x: -0.014881857, y: 0.0000002602122, z: -0.000000001414842}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.999999, y: 1.0000515, z: 0.9999942}
+    - name: RightShoulder
+      parentName: 
+      position: {x: 0.06925799, y: 0.10780124, z: -0.03580115}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightArm
+      parentName: 
+      position: {x: 0.085315965, y: 0.0000042860806, z: 0}
+      rotation: {x: -0.014442269, y: -0.0031735948, z: -0.026590867, w: 0.99953705}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: RightArmRoll
+      parentName: 
+      position: {x: 0.1400749, y: -0.000002577964, z: -0.0000002456582}
+      rotation: {x: -0, y: -0, z: -0.0000000045984048, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.9999913}
+    - name: RightForeArm
+      parentName: 
+      position: {x: 0.10560643, y: 0.000002577964, z: 0.0000002456582}
+      rotation: {x: -0.004428188, y: -0.030515244, z: 0.022255134, w: 0.9992767}
+      scale: {x: 1.0000498, y: 1.0000566, z: 1.0000055}
+    - name: RightForeArmRoll
+      parentName: 
+      position: {x: 0.14052682, y: -0.0000041803332, z: -0.0000012933787}
+      rotation: {x: -0, y: -0, z: 4.4408916e-16, w: 1}
+      scale: {x: 1.0000526, y: 1.0000136, z: 1.0000031}
+    - name: RightHand
+      parentName: 
+      position: {x: 0.119452596, y: 0.000004167471, z: -3.4461327e-17}
+      rotation: {x: -0.0000000019964295, y: 0.017251728, z: -0.000000012409977, w: 0.99985117}
+      scale: {x: 0.9999939, y: 0.99996006, z: 1.0000224}
+    - name: RightHandThumb1
+      parentName: 
+      position: {x: 0.06346257, y: -0.021957833, z: 0.038033634}
+      rotation: {x: -0.08225581, y: -0.30719268, z: -0.057387296, w: 0.9463474}
+      scale: {x: 1.0001441, y: 1.0000615, z: 1.0000324}
+    - name: RightHandThumb2
+      parentName: 
+      position: {x: 0.024859393, y: -0.0053043026, z: 0.007000043}
+      rotation: {x: 0.00069502735, y: -0.10755433, z: -0.07990342, w: 0.9909829}
+      scale: {x: 1.0001769, y: 0.99998844, z: 0.9999325}
+    - name: RightHandThumb3
+      parentName: 
+      position: {x: 0.025161829, y: -0.00000013060013, z: 0.00000011093987}
+      rotation: {x: 0.000000037285428, y: -0.00000038743013, z: 0.0000000033997491, w: 1}
+      scale: {x: 1.0001185, y: 1.0000668, z: 1.0000676}
+    - name: RightHandIndex1
+      parentName: 
+      position: {x: 0.11456845, y: -0.010464525, z: 0.038978502}
+      rotation: {x: 0.23212114, y: -0.13130578, z: -0.032164473, w: 0.9632466}
+      scale: {x: 1.0001116, y: 1.0000422, z: 1.0000075}
+    - name: RightHandIndex2
+      parentName: 
+      position: {x: 0.02954172, y: -0.00000015603024, z: 0.0014560486}
+      rotation: {x: -0, y: 0.00000014901163, z: 0.0000009126962, w: 1}
+      scale: {x: 0.99998754, y: 1.0000018, z: 0.9999945}
+    - name: RightHandIndex3
+      parentName: 
+      position: {x: 0.020507438, y: -0.0000001331523, z: 0.00091099134}
+      rotation: {x: -0, y: -0.00000014901163, z: -0.0000009126962, w: 1}
+      scale: {x: 1.0000985, y: 1.000011, z: 1.0000336}
+    - name: RightHandMiddle1
+      parentName: 
+      position: {x: 0.11806462, y: -0.006894873, z: 0.017513942}
+      rotation: {x: 0.060490765, y: -0.025575444, z: -0.032580134, w: 0.9973091}
+      scale: {x: 0.9999927, y: 1.0000288, z: 1.0000066}
+    - name: RightHandMiddle2
+      parentName: 
+      position: {x: 0.036947157, y: -0.00000034958433, z: 0.0000031858206}
+      rotation: {x: -0, y: -0, z: -0.0000000016298146, w: 1}
+      scale: {x: 0.9999589, y: 0.99998844, z: 0.9999751}
+    - name: RightHandMiddle3
+      parentName: 
+      position: {x: 0.022561153, y: -0.00000021346743, z: 0.0000018176753}
+      rotation: {x: -0.000000026077025, y: -0.000002555549, z: -0.000000035855916, w: 1}
+      scale: {x: 1.000011, y: 0.99997663, z: 0.9999746}
+    - name: RightHandRing1
+      parentName: 
+      position: {x: 0.11892045, y: -0.001623554, z: -0.005565682}
+      rotation: {x: -0.0044461703, y: 0.006866985, z: -0.037645772, w: 0.9992577}
+      scale: {x: 1.000006, y: 1.0000594, z: 1.0000067}
+    - name: RightHandRing2
+      parentName: 
+      position: {x: 0.03632597, y: -0.00000042942767, z: -0.0000000034669383}
+      rotation: {x: -0, y: -0, z: 0.0000000041181916, w: 1}
+      scale: {x: 1.000005, y: 1.0000315, z: 1.0000192}
+    - name: RightHandRing3
+      parentName: 
+      position: {x: 0.01955751, y: -0.00000023119921, z: -0.0000000034982517}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000114, y: 1.0000461, z: 1.0000079}
+    - name: RightHandPinky1
+      parentName: 
+      position: {x: 0.11435844, y: -0.0010611218, z: -0.025461316}
+      rotation: {x: 0.036639348, y: 0.0010131467, z: -0.023629403, w: 0.9990487}
+      scale: {x: 1.0000002, y: 1.0000118, z: 1.0000396}
+    - name: RightHandPinky2
+      parentName: 
+      position: {x: 0.022756258, y: 0.0000004016964, z: -2.1524883e-12}
+      rotation: {x: -0, y: -0, z: 4.656613e-10, w: 1}
+      scale: {x: 0.9999982, y: 1.0000005, z: 1.0000128}
+    - name: RightHandPinky3
+      parentName: 
+      position: {x: 0.014881857, y: 0.00000026021308, z: -0.0000000014162398}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000035, y: 1.0000136, z: 1.0000135}
+    - name: Neck
+      parentName: 
+      position: {x: -0, y: 0.20493045, z: -0.01186599}
+      rotation: {x: 0.107975766, y: -0, z: -0, w: 0.99415356}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: 
+      position: {x: -0, y: 0.047696523, z: 0.0016648907}
+      rotation: {x: -0.051813055, y: -0, z: -0, w: 0.9986568}
+      scale: {x: 1, y: 1.0000008, z: 1.0000008}
+    - name: Jaw
+      parentName: 
+      position: {x: -0, y: 0.031254195, z: 0.024188524}
+      rotation: {x: -0.00019678101, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightLowerLips
+      parentName: 
+      position: {x: 0.011778216, y: 0.0012762125, z: 0.082210995}
+      rotation: {x: -0.056124132, y: -0, z: -0, w: 0.9984239}
+      scale: {x: 1, y: 0.99998057, z: 0.99998057}
+    - name: LeftLowerLips
+      parentName: 
+      position: {x: -0.011778216, y: 0.0012744878, z: 0.08221101}
+      rotation: {x: -0.056124132, y: -0, z: -0, w: 0.9984239}
+      scale: {x: 1, y: 0.99998057, z: 0.99998057}
+    - name: LeftUpperEyelid
+      parentName: 
+      position: {x: -0.031641148, y: 0.10787341, z: 0.09122799}
+      rotation: {x: -0.17598557, y: -0.013367388, z: -0.00085966365, w: 0.98430157}
+      scale: {x: 0.99994457, y: 0.9999996, z: 1.0000006}
+    - name: LeftEyeball
+      parentName: 
+      position: {x: -0.031227676, y: 0.10236623, z: 0.07632315}
+      rotation: {x: -0.037750304, y: -0.013357408, z: 0.0010028579, w: 0.9991974}
+      scale: {x: 0.9999444, y: 0.9999992, z: 0.99999917}
+    - name: RightUpperEyelid
+      parentName: 
+      position: {x: 0.03164111, y: 0.1078706, z: 0.091228224}
+      rotation: {x: 0.9843016, y: 0.0008596639, z: -0.013367388, w: 0.17598557}
+      scale: {x: 0.9999443, y: 1.0001547, z: 1.0001795}
+    - name: RightEyeball
+      parentName: 
+      position: {x: 0.031227637, y: 0.10237002, z: 0.076322675}
+      rotation: {x: 0.9991974, y: -0.0010028579, z: -0.013357408, w: 0.037750304}
+      scale: {x: 0.9999444, y: 0.9999992, z: 1.0000013}
+    - name: mask1
+      parentName: 
+      position: {x: -0, y: 0.06662326, z: 0.11635751}
+      rotation: {x: -0.0563206, y: -0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 0.99999917, z: 0.99999917}
+    - name: mask2
+      parentName: 
+      position: {x: -0, y: 0.040285964, z: 0.10738938}
+      rotation: {x: -0.0563206, y: -0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 0.99999917, z: 0.99999917}
+    - name: mask3
+      parentName: 
+      position: {x: -0, y: 0.009242698, z: 0.09815537}
+      rotation: {x: -0.0563206, y: -0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 0.99999917, z: 0.99999917}
+    - name: LeftInnerBrow
+      parentName: 
+      position: {x: -0.011919757, y: 0.12758468, z: 0.102396205}
+      rotation: {x: -0.0563206, y: -0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 0.99999917, z: 0.99999917}
+    - name: LeftOuterBrow
+      parentName: 
+      position: {x: -0.039460156, y: 0.12921691, z: 0.092473015}
+      rotation: {x: -0.0563206, y: -0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 0.99999917, z: 0.99999917}
+    - name: RightInnerBrow
+      parentName: 
+      position: {x: 0.0119197965, y: 0.12758265, z: 0.10239659}
+      rotation: {x: -0.0563206, y: -0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 0.99999917, z: 0.99999917}
+    - name: RightOuterBrow
+      parentName: 
+      position: {x: 0.039460145, y: 0.12921768, z: 0.0924734}
+      rotation: {x: -0.0563206, y: -0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 0.99999917, z: 0.99999917}
+    - name: LeftLipsCorner
+      parentName: 
+      position: {x: -0.027257467, y: 0.03503084, z: 0.09730739}
+      rotation: {x: -0.0563206, y: -0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 0.99999917, z: 0.99999917}
+    - name: LeftUpperLips
+      parentName: 
+      position: {x: -0.013636415, y: 0.041448228, z: 0.10395538}
+      rotation: {x: -0.0563206, y: -0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 0.99999917, z: 0.99999917}
+    - name: RightUpperLips
+      parentName: 
+      position: {x: 0.013633933, y: 0.041445967, z: 0.10395626}
+      rotation: {x: -0.0563206, y: -0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 0.99999917, z: 0.99999917}
+    - name: RightLipsCorner
+      parentName: 
+      position: {x: 0.027257476, y: 0.035032317, z: 0.09730739}
+      rotation: {x: -0.0563206, y: -0, z: -0, w: 0.9984128}
+      scale: {x: 1, y: 0.99999917, z: 0.99999917}
+    - name: mask6
+      parentName: 
+      position: {x: -0, y: 0.16701064, z: 0.101093404}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mask5
+      parentName: 
+      position: {x: -0, y: 0.19427899, z: 0.10504441}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mask4
+      parentName: 
+      position: {x: -0, y: 0.22430038, z: 0.10464477}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightUpLeg
+      parentName: 
+      position: {x: 0.08318876, y: -0.0577117, z: 0}
+      rotation: {x: -0, y: -0, z: 0.053329397, w: 0.998577}
+      scale: {x: 0.9999927, y: 0.9999927, z: 1}
+    - name: RightLegRoll
+      parentName: 
+      position: {x: -0.0000030565845, y: -0.16739233, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999995, y: 0.9999995, z: 1}
+    - name: RightLeg
+      parentName: 
+      position: {x: 0.000000026872105, y: -0.2553848, z: 0.0000043437035}
+      rotation: {x: 0.06648598, y: -4.656613e-10, z: -0, w: 0.9977874}
+      scale: {x: 0.9999978, y: 1.0000012, z: 0.9999628}
+    - name: RightFoot
+      parentName: 
+      position: {x: -0.000000009092586, y: -0.44214123, z: -8.615331e-18}
+      rotation: {x: -0, y: 0.000000013505025, z: 0.000000006567216, w: 1}
+      scale: {x: 0.9999922, y: 0.9999876, z: 0.9999935}
+    - name: RightToeBase
+      parentName: 
+      position: {x: 0.000010735485, y: -0.06555298, z: 0.09990778}
+      rotation: {x: -0.06318517, y: 5.591216e-10, z: -8.185145e-10, w: 0.9980018}
+      scale: {x: 0.99997836, y: 1.0000141, z: 0.99995494}
+    - name: LeftUpLeg
+      parentName: 
+      position: {x: -0.08318614, y: -0.057713956, z: 0}
+      rotation: {x: -0, y: -0, z: -0.053327024, w: 0.9985771}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftLegRoll
+      parentName: 
+      position: {x: 1.03383964e-16, y: -0.16738786, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftLeg
+      parentName: 
+      position: {x: -1.7230663e-16, y: -0.25538734, z: 0}
+      rotation: {x: 0.066485986, y: -2.3283064e-10, z: -0.000000011175871, w: 0.9977874}
+      scale: {x: 1, y: 1, z: 0.9999966}
+    - name: LeftFoot
+      parentName: 
+      position: {x: -6.892264e-17, y: -0.44214123, z: 8.615331e-18}
+      rotation: {x: -0, y: -0, z: -8.673616e-17, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: LeftToeBase
+      parentName: 
+      position: {x: -0.00000008337674, y: -0.06555298, z: 0.09990748}
+      rotation: {x: -0.06318518, y: -2.400824e-10, z: 0.0000000037419117, w: 0.9980019}
+      scale: {x: 1, y: 1.0000004, z: 1.0000001}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.97
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
