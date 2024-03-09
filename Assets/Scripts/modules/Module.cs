@@ -4,11 +4,13 @@ using UnityEngine;
 
 public interface IModule {
   bool Activate();
+  bool Desactivate();
   void OnActivation();
+  void OnDesactivation();
 }
 
 public abstract class ModuleBase : MonoBehaviour, IModule {
-  private bool state = false;
+  protected bool state = false;
 
   public bool Activate() {
     if (state) { return false; }
@@ -17,5 +19,13 @@ public abstract class ModuleBase : MonoBehaviour, IModule {
     return true;
   }
 
+  public bool Desactivate() {
+    if (!state) { return false; }
+    state = false;
+    OnDesactivation();
+    return true;
+  }
+
   public abstract void OnActivation();
+  public abstract void OnDesactivation();
 }
