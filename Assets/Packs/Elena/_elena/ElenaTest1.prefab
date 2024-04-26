@@ -32168,7 +32168,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7993524323610624024}
-  - component: {fileID: 7993524323610926139}
   m_Layer: 0
   m_Name: DOTS_Elena_Body
   m_TagString: Untagged
@@ -32195,20 +32194,6 @@ Transform:
   m_Father: {fileID: 7993524323610624028}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!136 &7993524323610926139
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7993524323610926136}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.24
-  m_Height: 1.71
-  m_Direction: 1
-  m_Center: {x: 0, y: 0.84, z: 0}
 --- !u!1 &7993524323610926138
 GameObject:
   m_ObjectHideFlags: 0
